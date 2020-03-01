@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html>
+<header>
+
+</header>
+
+<head>
+    <title>nopanic.io</title>
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}">
+
+    <style>
+        /* Always set the map height explicitly to define the size of the div
+         * element that contains the map. */
+        #map {
+            height: 100%;
+        }
+
+        /* Optional: Makes the sample page fill the window. */
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div id="map"></div>
+
+    <div class="choose-date">
+        <input class="cal" type="date" value="2020-03-01" min="2020-01-22" max="2020-03-08" id="exactDate"
+            onchange="updateTime(this.value)">
+        <!-- <input class="slider" type="range" min="0" max="7" value="0" id="nbDaysFuture" onchange="updateRangeValue(this.value)"> -->
+    </div>
+
+    <div class="sidebar">
+
+        <div class="sidebar-header">
+            <p>Help contain COVID19 the smart way</p>
+            <h1>nopanic.io</h1>
+        </div>
+
+        <div class="sidebar-search">
+            <input type="text" id="search" style="text-transform: capitalize;" placeholder="Type in a location..." onchange="updateLocation(this.value)">
+        </div>
+
+        <div id="nb-cases" class="panel nb-days" onclick="animatePanel2()">
+            <h2>Number of confirmed cases:</h2>
+            <h1 style="width: 100%; margin: auto; margin-top: 30px; font-size: 50px;"
+                id="numberOfInfected">86013</h1>
+        </div>
+
+        <div class="panel nb-cases">
+            <h2>Number of days to first case:</h2>
+            <h1 style="width: 100%; margin: auto; margin-top: 30px; text-align: center; font-size: 50px;"><h1 id="forecast-day">Virus is spreading</h1>
+        </div>
+
+        <div class="panel tips" id="panel" onclick="animatePanel()">
+            <h2>Safety recommendations</h2>
+            <h3 id="risk-level"></h3>
+            <p id="safety-tips">Type in a location to get the best safety recommendations based on your region.</p>
+        </div>
+
+    </div>
+
+    <div id="open-tips" class="panel open-tips">
+        <h1>Safety recommendations:</h1>
+        <h3 id="risk-level"></h3>
+        <p id="safety-tips"></p>
+        <div class="x-div" onclick="closePanel()">
+            <h1>x</h1> 
+        </div>
+    </div>
+
+    <div id="open-nb-cases" class="panel open-nb-cases">
+        <h1>Virus growth (demo graph w/o styling)</h1>
+        <div class="x-div" onclick="closePanel2()">
+            <h1>x</h1> 
+        </div>
+        <div class="graph-container" style="position:relative; width: 100%; margin:auto">
+            <img src="static/img/hubei.png" alt="Graph of Hubei Province COVID19 cases" style="position:relative; width: 90%;margin: 150px 50px;">
+        </div>
+    </div>
+
+    <!-- Recommendations array -->
+    <script>
+        var recentLocation = "";
+
+    </script>
+    <!-- Script to get location -->
+    <script>
+        var input_location = document.getElementById("search").value;
+        document.getElementById('test').innerHTML = input_location;
+    </script>
+
+    <!-- Animate panel -->
+    <script>
+        function animatePanel() {
+            document.getElementById("open-tips").style.display="block";
+        } 
+
+        function closePanel() {
+            document.getElementById("open-tips").style.display="none";
+        }
+    </script>
+    <script>
+        function animatePanel2() {
+            document.getElementById("open-nb-cases").style.display="block";
+        } 
+
+        function closePanel2() {
+            document.getElementById("open-nb-cases").style.display="none";
+        }
+    </script>
+
+
+    <!-- Script to get value from range slider -->
+
+    <!-- <script>
+        function updateRangeValue(value) {
+            daysToAdd = getElementById("nbDaysFuture")
+            someDate = getElementById("exactDate").value + daysToAdd;
+
+            var dd = someDate.getDate();
+            var mm = someDate.getMonth() + 1;
+            var y = someDate.getFullYear();
+
+            var someFormattedDate = y + '/'+ mm + '/'+ dd;
+
+            document.getElementById("exactDate").someFormattedDate;
+        }
+    </script> -->
+
+    <script>
+        var listOfInfected = [];
+        var listOfLatCoordinates = [];
+        var listOfLongCoordinates = [];
+
+
+        var map;
+
+        function initMap() {
+
+            map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 4,
+                center: {
+                    lat: 53.598130,
+                    lng: -102.648983
+                },
+                disableDefaultUI: true,
+                styles: [{
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#f5f5f5"
+                        }]
+                    },
+                    {
+                        "elementType": "labels",
+                        "stylers": [{
+                            "visibility": "2"
+                        }]
+                    },
+                    {
+                        "elementType": "labels.icon",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#616161"
+                        }]
+                    },
+                    {
+                        "elementType": "labels.text.stroke",
+                        "stylers": [{
+                            "color": "#f5f5f5"
+                        }]
+                    },
+                    {
+                        "featureType": "administrative.land_parcel",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#bdbdbd"
+                        }]
+                    },
+                    {
+                        "featureType": "administrative.neighborhood",
+                        "stylers": [{
+                            "visibility": "off"
+                        }]
+                    },
+                    {
+                        "featureType": "poi",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#eeeeee"
+                        }]
+                    },
+                    {
+                        "featureType": "poi",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#757575"
+                        }]
+                    },
+                    {
+                        "featureType": "poi.park",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#e5e5e5"
+                        }]
+                    },
+                    {
+                        "featureType": "poi.park",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#9e9e9e"
+                        }]
+                    },
+                    {
+                        "featureType": "road",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#ffffff"
+                        }]
+                    },
+                    {
+                        "featureType": "road.arterial",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#757575"
+                        }]
+                    },
+                    {
+                        "featureType": "road.highway",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#dadada"
+                        }]
+                    },
+                    {
+                        "featureType": "road.highway",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#616161"
+                        }]
+                    },
+                    {
+                        "featureType": "road.local",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#9e9e9e"
+                        }]
+                    },
+                    {
+                        "featureType": "transit.line",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#e5e5e5"
+                        }]
+                    },
+                    {
+                        "featureType": "transit.station",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#eeeeee"
+                        }]
+                    },
+                    {
+                        "featureType": "water",
+                        "elementType": "geometry",
+                        "stylers": [{
+                            "color": "#c9c9c9"
+                        }]
+                    },
+                    {
+                        "featureType": "water",
+                        "elementType": "labels.text.fill",
+                        "stylers": [{
+                            "color": "#9e9e9e"
+                        }]
+                    }
+                ]
+            });
+
+            // Create a <script> tag and set the USGS URL as the source.
+            var script = document.createElement('script');
+
+            var selectDate = document.getElementById('exactDate');
+
+
+            // map.data.addListener('mouseover', mouseInToRegion);
+            // map.data.addListener('mouseout', mouseOutOfRegion);
+
+            // google.maps.event.addDomListener(selectBox, 'change', function() {
+            //     clearCensusData();
+            //     loadCensusData(selectBox.value);
+            //   });
+
+            // state polygons only need to be loaded once, do them now
+
+
+
+            script.src = 'https://storage.cloud.google.com/corona-marihacks2020/dataset.geojsonp';
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+
+
+            map.data.setStyle(function (feature) {
+                var infected = feature.getProperty('2/29/20');
+
+                listOfInfected.push(infected)
+
+                var latCoordinates = feature.getProperty("Lat");
+
+                listOfLatCoordinates.push(latCoordinates);
+                var longCoordinates = feature.getProperty("Long");
+                listOfLongCoordinates.push(longCoordinates);
+
+
+
+
+                // document.getElementById('numberOfInfected').innerHTML = infected;
+
+                return {
+                    icon: getCircle(infected)
+                };
+
+
+            });
+        }
+
+        function getCircle(infected) {
+
+            var infected_circle = infected
+
+            if (infected > 5000) {
+                infected_circle = 5000;
+            } else if (infected < 100 && infected !=0) {
+                infected_circle = 100;
+            } else if (infected==0){
+                infected_circle = 0
+                
+            };
+
+            return {
+                path: google.maps.SymbolPath.CIRCLE,
+                fillColor: 'red',
+                fillOpacity: 0.5,
+                scale: Math.pow(infected_circle, 1 / 2),
+                strokeColor: 'white',
+                strokeWeight: .00005
+            };
+        }
+
+        function eqfeed_callback(results) {
+            map.data.addGeoJson(results);
+        }
+
+
+        function updateTime(value) {
+
+            listOfInfected = [];
+            listOfLatCoordinates = [];
+            listOfLongCoordinates = [];
+
+            map.data.forEach(function (feature) {    
+                map.data.remove(feature);
+            
+            });
+
+            time = value.slice(5, 7) + '-' + parseInt(value.slice(8, 10), 10) + '-' + value.slice(0, 4);
+            slashed_time = value.slice(6, 7) + '/' + parseInt(value.slice(8, 10), 10) + '/' + value.slice(0, 2);
+
+            if (value.slice(6, 7) == 3) {
+                slashed_time = value.slice(6, 7) + '/' + value.slice(8,10) + '/' + value.slice(0, 2);
+                console.log(slashed_time);
+
+
+            }
+
+
+            var script = document.createElement('script');
+
+            script.src = 'https://storage.cloud.google.com/corona-marihacks2020/' + String(time) + '.geojsonp';
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+
+            map.data.setStyle(function (feature) {
+                var infected = feature.getProperty(String(slashed_time));
+
+                listOfInfected.push(infected);
+
+                var latCoordinates = feature.getProperty("Lat");
+
+                listOfLatCoordinates.push(latCoordinates);
+                var longCoordinates = feature.getProperty("Long");
+                listOfLongCoordinates.push(longCoordinates);
+
+                return {
+                    icon: getCircle(infected)
+                };
+
+
+            });
+
+
+            viewBounds = map.getBounds();
+
+
+            lowerLatBound = viewBounds["Za"]["i"];
+            upperLatBound = viewBounds["Za"]["j"];
+            lowerLonBound = viewBounds["Ua"]["i"];
+            upperLonBound = viewBounds["Ua"]["j"];
+
+
+            var changed = false;
+
+            google.maps.event.trigger(map, 'resize');
+
+            updateLocation(recentLocation);
+
+            console.log(listOfInfected);
+
+
+            // for (const i in listOfLatCoordinates) {
+
+            //     if (listOfLatCoordinates[i] > lowerLatBound && listOfLatCoordinates[i] < upperLatBound) {
+            //         console.log("this runs")
+
+            //         if (listOfLongCoordinates[i] > lowerLonBound && listOfLongCoordinates[i] < upperLonBound) {
+
+            //             index = i;
+
+            //             document.getElementById('numberOfInfected').innerHTML = listOfInfected[index];
+            //             updateTips(listOfInfected[i]);
+
+            //             changed=true;
+
+            //             if (listOfInfected[i] == 0) {
+                            
+            //                 document.getElementById('forecast-day').innerHTML = 15 + " days";
+
+                            
+
+            //             } else {
+
+            //                 document.getElementById('forecast-day').innerHTML = "Virus is in the region.";
+
+            //             };
+
+            //         };
+
+            //     };
+            // };
+
+            // if (!changed) {
+            //     document.getElementById('numberOfInfected').innerHTML = 0;
+            //     document.getElementById('forecast-day').innerHTML = 25 + " days";
+            // };
+
+        }
+
+        function updateLocation(val) {
+            recentLocation = String(val);
+            var xmlHttp = new XMLHttpRequest();
+            xmlHttp.open("GET", ("https://maps.googleapis.com/maps/api/geocode/json?address=" + val +
+                "&key=AIzaSyAzkhf-ORo89KJxvc_A6rscoEbO3d-ByQM"), false); // false for synchronous request
+            xmlHttp.send(null);
+            response = JSON.parse(xmlHttp.responseText);
+            var longitude = response["results"][0]['geometry']['location']['lng'];
+            var latitude = response["results"][0]['geometry']['location']['lat'];
+
+            var xmlHttp1 = new XMLHttpRequest();
+            xmlHttp1.open("GET", ("https://maps.googleapis.com/maps/api/geocode/json?latlng=" + String(latitude) + "," +
+                String(longitude) + "&key=AIzaSyAzkhf-ORo89KJxvc_A6rscoEbO3d-ByQM"), false);
+            xmlHttp1.send(null);
+            response1 = JSON.parse(xmlHttp1.responseText);
+            // var longitude = response["results"][0]['geometry']['location']['lng'];
+            // var latitude = response["results"][0]['geometry']['location']['lat'];
+            var country = response1['results'][0]['address_components'][1]["long_name"];
+
+            var pos = {
+                lat: latitude,
+                lng: longitude - 1.1
+            }
+
+            var bounds = new google.maps.LatLngBounds();
+            map.fitBounds(bounds);
+            var listener = google.maps.event.addListener(map, "idle", function () {
+                if (map.getZoom() > 10) map.setZoom(10);
+                google.maps.event.removeListener(listener);
+            });
+
+            map.setCenter(pos);
+
+            viewBounds = map.getBounds();
+
+            // lowerLatBound = viewBounds["Za"]["i"] + 1;
+            // upperLatBound = viewBounds["Za"]["j"] - 1;
+            // lowerLonBound = viewBounds["Ua"]["i"] + 2;
+            // upperLonBound = viewBounds["Ua"]["j"] - 2;
+
+
+            lowerLatBound = viewBounds["Za"]["i"];
+            upperLatBound = viewBounds["Za"]["j"];
+            lowerLonBound = viewBounds["Ua"]["i"];
+            upperLonBound = viewBounds["Ua"]["j"];
+
+            
+            //Update Safety Tips
+            var recommendations = [
+                "There are very few cases in your area. Please use caution and good sanitary practices, but please, do not panic! You can go about your daily business; don't worry, public transit is safe.",
+
+                "The number of cases in your area is growing. There is no need to panic, but please respect the sanitary guidelines provided by your local authorities. If you happen to have symptoms, please avoid contact with other people, and consult a doctor immediately.",
+
+                "The number of cases in your area is very high. In order to contain the spread of the virus and help local authorities, please stay calm and avoid irrational behaviour."
+            ]
+
+            var riskLevel = [
+                "Risk level is LOW",
+                "Risk level is MANAGEABLE",
+                "Risk level is HIGH"
+            ]
+
+            function updateTips(infected) {
+                if (infected <= 100) {
+                    document.getElementById('safety-tips').innerHTML = recommendations[0]
+                    document.getElementById('risk-level').innerHTML = riskLevel[0]
+                } else if (infected > 100 && infected <= 1000) {
+                    document.getElementById('safety-tips').innerHTML = recommendations[1]
+                    document.getElementById('risk-level').innerHTML = riskLevel[1]
+                } else {
+                    document.getElementById('safety-tips').innerHTML = recommendations[2]
+                    document.getElementById('risk-level').innerHTML = riskLevel[2]
+                }
+            }
+            
+
+
+            
+            var changed = false;
+            for (const i in listOfLatCoordinates) {
+
+                if (listOfLatCoordinates[i] > lowerLatBound && listOfLatCoordinates[i] < upperLatBound) {
+
+
+                    if (listOfLongCoordinates[i] > lowerLonBound && listOfLongCoordinates[i] < upperLonBound) {
+
+
+                        index = i;
+
+
+                        document.getElementById('numberOfInfected').innerHTML = listOfInfected[i];
+                        updateTips(listOfInfected[i]);
+
+                        changed=true
+
+                        if (listOfInfected[i] == 0) {
+                            
+                            document.getElementById('forecast-day').innerHTML = 10 + " days";
+
+                            
+
+                        } else {
+
+                            document.getElementById('forecast-day').innerHTML = "Virus is in the region.";
+
+                        }
+
+                    }
+
+                }
+            }
+
+            if (!changed) {
+                document.getElementById('numberOfInfected').innerHTML = 0;
+                document.getElementById('forecast-day').innerHTML = 10 + " days";
+            }
+
+            google.maps.event.trigger(map, 'resize');
+
+        }
+    </script>
+    <script src="http://maps.google.com/maps/api/js?libraries=places"></script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB_kX9Yu5AtlAxjsdTQ6feIoMZe4ihoKn8&callback=initMap&libraries=places">
+    </script>
+
+</body>
+
+</html>

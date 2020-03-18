@@ -4,9 +4,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 70.0,
-        "Lat": 15.0,
-        "Long": 101.0
+        "3/12/20confirmed": 70,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 34,
+        "Latconfirmed": 15.0,
+        "Longconfirmed": 101.0
       },
       "geometry": {
         "type": "Point",
@@ -19,9 +21,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 639.0,
-        "Lat": 36.0,
-        "Long": 138.0
+        "3/12/20confirmed": 639,
+        "3/12/20dead": 16,
+        "3/12/20recovered": 118,
+        "Latconfirmed": 36.0,
+        "Longconfirmed": 138.0
       },
       "geometry": {
         "type": "Point",
@@ -34,9 +38,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 178.0,
-        "Lat": 1.2833,
-        "Long": 103.8333
+        "3/12/20confirmed": 178,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 96,
+        "Latconfirmed": 1.2833,
+        "Longconfirmed": 103.8333
       },
       "geometry": {
         "type": "Point",
@@ -49,9 +55,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 28.1667,
-        "Long": 84.25
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 28.1667,
+        "Longconfirmed": 84.25
       },
       "geometry": {
         "type": "Point",
@@ -64,9 +72,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 149.0,
-        "Lat": 2.5,
-        "Long": 112.5
+        "3/12/20confirmed": 149,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 26,
+        "Latconfirmed": 2.5,
+        "Longconfirmed": 112.5
       },
       "geometry": {
         "type": "Point",
@@ -79,9 +89,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 46.0,
-        "Lat": 49.2827,
-        "Long": -123.1207
+        "3/12/20confirmed": 46,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 4,
+        "Latconfirmed": 49.2827,
+        "Longconfirmed": -123.1207
       },
       "geometry": {
         "type": "Point",
@@ -94,9 +106,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 65.0,
-        "Lat": -33.8688,
-        "Long": 151.2093
+        "3/12/20confirmed": 65,
+        "3/12/20dead": 2,
+        "3/12/20recovered": 4,
+        "Latconfirmed": -33.8688,
+        "Longconfirmed": 151.2093
       },
       "geometry": {
         "type": "Point",
@@ -109,9 +123,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 21.0,
-        "Lat": -37.8136,
-        "Long": 144.9631
+        "3/12/20confirmed": 21,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 7,
+        "Latconfirmed": -37.8136,
+        "Longconfirmed": 144.9631
       },
       "geometry": {
         "type": "Point",
@@ -124,9 +140,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 20.0,
-        "Lat": -28.0167,
-        "Long": 153.4
+        "3/12/20confirmed": 20,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 8,
+        "Latconfirmed": -28.0167,
+        "Longconfirmed": 153.4
       },
       "geometry": {
         "type": "Point",
@@ -139,9 +157,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 3.0,
-        "Lat": 11.55,
-        "Long": 104.9167
+        "3/12/20confirmed": 3,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 11.55,
+        "Longconfirmed": 104.9167
       },
       "geometry": {
         "type": "Point",
@@ -154,9 +174,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 7.0,
-        "Long": 81.0
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 7.0,
+        "Longconfirmed": 81.0
       },
       "geometry": {
         "type": "Point",
@@ -169,9 +191,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2078.0,
-        "Lat": 51.0,
-        "Long": 9.0
+        "3/12/20confirmed": 2078,
+        "3/12/20dead": 3,
+        "3/12/20recovered": 25,
+        "Latconfirmed": 51.0,
+        "Longconfirmed": 9.0
       },
       "geometry": {
         "type": "Point",
@@ -184,9 +208,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 59.0,
-        "Lat": 64.0,
-        "Long": 26.0
+        "3/12/20confirmed": 59,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 64.0,
+        "Longconfirmed": 26.0
       },
       "geometry": {
         "type": "Point",
@@ -199,9 +225,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 85.0,
-        "Lat": 24.0,
-        "Long": 54.0
+        "3/12/20confirmed": 85,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 17,
+        "Latconfirmed": 24.0,
+        "Longconfirmed": 54.0
       },
       "geometry": {
         "type": "Point",
@@ -214,9 +242,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 52.0,
-        "Lat": 13.0,
-        "Long": 122.0
+        "3/12/20confirmed": 52,
+        "3/12/20dead": 2,
+        "3/12/20recovered": 2,
+        "Latconfirmed": 13.0,
+        "Longconfirmed": 122.0
       },
       "geometry": {
         "type": "Point",
@@ -229,9 +259,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 73.0,
-        "Lat": 21.0,
-        "Long": 78.0
+        "3/12/20confirmed": 73,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 4,
+        "Latconfirmed": 21.0,
+        "Longconfirmed": 78.0
       },
       "geometry": {
         "type": "Point",
@@ -244,9 +276,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 12462.0,
-        "Lat": 43.0,
-        "Long": 12.0
+        "3/12/20confirmed": 12462,
+        "3/12/20dead": 827,
+        "3/12/20recovered": 1045,
+        "Latconfirmed": 43.0,
+        "Longconfirmed": 12.0
       },
       "geometry": {
         "type": "Point",
@@ -259,9 +293,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 599.0,
-        "Lat": 63.0,
-        "Long": 16.0
+        "3/12/20confirmed": 599,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 63.0,
+        "Longconfirmed": 16.0
       },
       "geometry": {
         "type": "Point",
@@ -274,9 +310,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2277.0,
-        "Lat": 40.0,
-        "Long": -4.0
+        "3/12/20confirmed": 2277,
+        "3/12/20dead": 55,
+        "3/12/20recovered": 183,
+        "Latconfirmed": 40.0,
+        "Longconfirmed": -4.0
       },
       "geometry": {
         "type": "Point",
@@ -289,9 +327,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 9.0,
-        "Lat": -34.9285,
-        "Long": 138.6007
+        "3/12/20confirmed": 9,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 2,
+        "Latconfirmed": -34.9285,
+        "Longconfirmed": 138.6007
       },
       "geometry": {
         "type": "Point",
@@ -304,9 +344,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 314.0,
-        "Lat": 50.8333,
-        "Long": 4.0
+        "3/12/20confirmed": 314,
+        "3/12/20dead": 3,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 50.8333,
+        "Longconfirmed": 4.0
       },
       "geometry": {
         "type": "Point",
@@ -319,9 +361,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 67.0,
-        "Lat": 26.0,
-        "Long": 30.0
+        "3/12/20confirmed": 67,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 27,
+        "Latconfirmed": 26.0,
+        "Longconfirmed": 30.0
       },
       "geometry": {
         "type": "Point",
@@ -334,9 +378,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 35.4437,
-        "Long": 139.638
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 35.4437,
+        "Longconfirmed": 139.638
       },
       "geometry": {
         "type": "Point",
@@ -349,9 +395,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 61.0,
-        "Lat": 33.8547,
-        "Long": 35.8623
+        "3/12/20confirmed": 61,
+        "3/12/20dead": 3,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 33.8547,
+        "Longconfirmed": 35.8623
       },
       "geometry": {
         "type": "Point",
@@ -364,9 +412,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 71.0,
-        "Lat": 33.0,
-        "Long": 44.0
+        "3/12/20confirmed": 71,
+        "3/12/20dead": 8,
+        "3/12/20recovered": 15,
+        "Latconfirmed": 33.0,
+        "Longconfirmed": 44.0
       },
       "geometry": {
         "type": "Point",
@@ -379,9 +429,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 18.0,
-        "Lat": 21.0,
-        "Long": 57.0
+        "3/12/20confirmed": 18,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 9,
+        "Latconfirmed": 21.0,
+        "Longconfirmed": 57.0
       },
       "geometry": {
         "type": "Point",
@@ -394,9 +446,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 7.0,
-        "Lat": 33.0,
-        "Long": 65.0
+        "3/12/20confirmed": 7,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 33.0,
+        "Longconfirmed": 65.0
       },
       "geometry": {
         "type": "Point",
@@ -409,9 +463,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 195.0,
-        "Lat": 26.0275,
-        "Long": 50.55
+        "3/12/20confirmed": 195,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 35,
+        "Latconfirmed": 26.0275,
+        "Longconfirmed": 50.55
       },
       "geometry": {
         "type": "Point",
@@ -424,9 +480,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 80.0,
-        "Lat": 29.5,
-        "Long": 47.75
+        "3/12/20confirmed": 80,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 5,
+        "Latconfirmed": 29.5,
+        "Longconfirmed": 47.75
       },
       "geometry": {
         "type": "Point",
@@ -439,9 +497,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 24.0,
-        "Lat": 28.0339,
-        "Long": 1.6596
+        "3/12/20confirmed": 24,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 8,
+        "Latconfirmed": 28.0339,
+        "Longconfirmed": 1.6596
       },
       "geometry": {
         "type": "Point",
@@ -454,9 +514,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 19.0,
-        "Lat": 45.1,
-        "Long": 15.2
+        "3/12/20confirmed": 19,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 45.1,
+        "Longconfirmed": 15.2
       },
       "geometry": {
         "type": "Point",
@@ -469,9 +531,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 652.0,
-        "Lat": 46.8182,
-        "Long": 8.2275
+        "3/12/20confirmed": 652,
+        "3/12/20dead": 4,
+        "3/12/20recovered": 4,
+        "Latconfirmed": 46.8182,
+        "Longconfirmed": 8.2275
       },
       "geometry": {
         "type": "Point",
@@ -484,9 +548,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 302.0,
-        "Lat": 47.5162,
-        "Long": 14.5501
+        "3/12/20confirmed": 302,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 4,
+        "Latconfirmed": 47.5162,
+        "Longconfirmed": 14.5501
       },
       "geometry": {
         "type": "Point",
@@ -499,9 +565,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 131.0,
-        "Lat": 31.0,
-        "Long": 35.0
+        "3/12/20confirmed": 131,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 4,
+        "Latconfirmed": 31.0,
+        "Longconfirmed": 35.0
       },
       "geometry": {
         "type": "Point",
@@ -514,9 +582,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 20.0,
-        "Lat": 30.3753,
-        "Long": 69.3451
+        "3/12/20confirmed": 20,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 2,
+        "Latconfirmed": 30.3753,
+        "Longconfirmed": 69.3451
       },
       "geometry": {
         "type": "Point",
@@ -529,9 +599,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 52.0,
-        "Lat": -14.235,
-        "Long": -51.9253
+        "3/12/20confirmed": 52,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -14.235,
+        "Longconfirmed": -51.9253
       },
       "geometry": {
         "type": "Point",
@@ -544,9 +616,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 24.0,
-        "Lat": 42.3154,
-        "Long": 43.3569
+        "3/12/20confirmed": 24,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.3154,
+        "Longconfirmed": 43.3569
       },
       "geometry": {
         "type": "Point",
@@ -559,9 +633,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 99.0,
-        "Lat": 39.0742,
-        "Long": 21.8243
+        "3/12/20confirmed": 99,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.0742,
+        "Longconfirmed": 21.8243
       },
       "geometry": {
         "type": "Point",
@@ -574,9 +650,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 7.0,
-        "Lat": 41.6086,
-        "Long": 21.7453
+        "3/12/20confirmed": 7,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.6086,
+        "Longconfirmed": 21.7453
       },
       "geometry": {
         "type": "Point",
@@ -589,9 +667,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 702.0,
-        "Lat": 60.472,
-        "Long": 8.4689
+        "3/12/20confirmed": 702,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 60.472,
+        "Longconfirmed": 8.4689
       },
       "geometry": {
         "type": "Point",
@@ -604,9 +684,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 49.0,
-        "Lat": 45.9432,
-        "Long": 24.9668
+        "3/12/20confirmed": 49,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 6,
+        "Latconfirmed": 45.9432,
+        "Longconfirmed": 24.9668
       },
       "geometry": {
         "type": "Point",
@@ -619,9 +701,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 16.0,
-        "Lat": 58.5953,
-        "Long": 25.0136
+        "3/12/20confirmed": 16,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 58.5953,
+        "Longconfirmed": 25.0136
       },
       "geometry": {
         "type": "Point",
@@ -634,9 +718,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 69.0,
-        "Lat": 43.9424,
-        "Long": 12.4578
+        "3/12/20confirmed": 69,
+        "3/12/20dead": 3,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.9424,
+        "Longconfirmed": 12.4578
       },
       "geometry": {
         "type": "Point",
@@ -649,9 +735,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 12.0,
-        "Lat": 53.7098,
-        "Long": 27.9534
+        "3/12/20confirmed": 12,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 3,
+        "Latconfirmed": 53.7098,
+        "Longconfirmed": 27.9534
       },
       "geometry": {
         "type": "Point",
@@ -664,9 +752,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 103.0,
-        "Lat": 64.9631,
-        "Long": -19.0208
+        "3/12/20confirmed": 103,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 64.9631,
+        "Longconfirmed": -19.0208
       },
       "geometry": {
         "type": "Point",
@@ -679,9 +769,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 3.0,
-        "Lat": 55.1694,
-        "Long": 23.8813
+        "3/12/20confirmed": 3,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 55.1694,
+        "Longconfirmed": 23.8813
       },
       "geometry": {
         "type": "Point",
@@ -694,9 +786,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 12.0,
-        "Lat": 23.6345,
-        "Long": -102.5528
+        "3/12/20confirmed": 12,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 4,
+        "Latconfirmed": 23.6345,
+        "Longconfirmed": -102.5528
       },
       "geometry": {
         "type": "Point",
@@ -709,9 +803,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 5.0,
-        "Lat": -40.9006,
-        "Long": 174.886
+        "3/12/20confirmed": 5,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -40.9006,
+        "Longconfirmed": 174.886
       },
       "geometry": {
         "type": "Point",
@@ -724,9 +820,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 9.082,
-        "Long": 8.6753
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 9.082,
+        "Longconfirmed": 8.6753
       },
       "geometry": {
         "type": "Point",
@@ -739,9 +837,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 9.0,
-        "Lat": -31.9505,
-        "Long": 115.8605
+        "3/12/20confirmed": 9,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -31.9505,
+        "Longconfirmed": 115.8605
       },
       "geometry": {
         "type": "Point",
@@ -754,9 +854,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 43.0,
-        "Lat": 53.1424,
-        "Long": -7.6921
+        "3/12/20confirmed": 43,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 53.1424,
+        "Longconfirmed": -7.6921
       },
       "geometry": {
         "type": "Point",
@@ -769,9 +871,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 19.0,
-        "Lat": 49.8153,
-        "Long": 6.1296
+        "3/12/20confirmed": 19,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 49.8153,
+        "Longconfirmed": 6.1296
       },
       "geometry": {
         "type": "Point",
@@ -784,9 +888,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 43.7333,
-        "Long": 7.4167
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.7333,
+        "Longconfirmed": 7.4167
       },
       "geometry": {
         "type": "Point",
@@ -799,9 +905,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 262.0,
-        "Lat": 25.3548,
-        "Long": 51.1839
+        "3/12/20confirmed": 262,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 25.3548,
+        "Longconfirmed": 51.1839
       },
       "geometry": {
         "type": "Point",
@@ -814,9 +922,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 17.0,
-        "Lat": -1.8312,
-        "Long": -78.1834
+        "3/12/20confirmed": 17,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -1.8312,
+        "Longconfirmed": -78.1834
       },
       "geometry": {
         "type": "Point",
@@ -829,9 +939,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 11.0,
-        "Lat": 40.1431,
-        "Long": 47.5769
+        "3/12/20confirmed": 11,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 3,
+        "Latconfirmed": 40.1431,
+        "Longconfirmed": 47.5769
       },
       "geometry": {
         "type": "Point",
@@ -844,9 +956,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 4.0,
-        "Lat": 40.0691,
-        "Long": 45.0382
+        "3/12/20confirmed": 4,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.0691,
+        "Longconfirmed": 45.0382
       },
       "geometry": {
         "type": "Point",
@@ -859,9 +973,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 5.0,
-        "Lat": 18.7357,
-        "Long": -70.1627
+        "3/12/20confirmed": 5,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 18.7357,
+        "Longconfirmed": -70.1627
       },
       "geometry": {
         "type": "Point",
@@ -874,9 +990,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 34.0,
-        "Lat": -0.7893,
-        "Long": 113.9213
+        "3/12/20confirmed": 34,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 2,
+        "Latconfirmed": -0.7893,
+        "Longconfirmed": 113.9213
       },
       "geometry": {
         "type": "Point",
@@ -889,9 +1007,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 59.0,
-        "Lat": 39.3999,
-        "Long": -8.2245
+        "3/12/20confirmed": 59,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.3999,
+        "Longconfirmed": -8.2245
       },
       "geometry": {
         "type": "Point",
@@ -904,9 +1024,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 42.5063,
-        "Long": 1.5218
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 42.5063,
+        "Longconfirmed": 1.5218
       },
       "geometry": {
         "type": "Point",
@@ -919,9 +1041,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 3.0,
-        "Lat": -41.4545,
-        "Long": 145.9707
+        "3/12/20confirmed": 3,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -41.4545,
+        "Longconfirmed": 145.9707
       },
       "geometry": {
         "type": "Point",
@@ -934,9 +1058,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 10.0,
-        "Lat": 56.8796,
-        "Long": 24.6032
+        "3/12/20confirmed": 10,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 56.8796,
+        "Longconfirmed": 24.6032
       },
       "geometry": {
         "type": "Point",
@@ -949,9 +1075,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 6.0,
-        "Lat": 31.7917,
-        "Long": -7.0926
+        "3/12/20confirmed": 6,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 31.7917,
+        "Longconfirmed": -7.0926
       },
       "geometry": {
         "type": "Point",
@@ -964,9 +1092,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 45.0,
-        "Lat": 24.0,
-        "Long": 45.0
+        "3/12/20confirmed": 45,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 24.0,
+        "Longconfirmed": 45.0
       },
       "geometry": {
         "type": "Point",
@@ -979,9 +1109,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 4.0,
-        "Lat": 14.4974,
-        "Long": -14.4524
+        "3/12/20confirmed": 4,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 14.4974,
+        "Longconfirmed": -14.4524
       },
       "geometry": {
         "type": "Point",
@@ -994,9 +1126,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 19.0,
-        "Lat": -38.4161,
-        "Long": -63.6167
+        "3/12/20confirmed": 19,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -38.4161,
+        "Longconfirmed": -63.6167
       },
       "geometry": {
         "type": "Point",
@@ -1009,9 +1143,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 23.0,
-        "Lat": -35.6751,
-        "Long": -71.543
+        "3/12/20confirmed": 23,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -35.6751,
+        "Longconfirmed": -71.543
       },
       "geometry": {
         "type": "Point",
@@ -1024,9 +1160,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 31.24,
-        "Long": 36.51
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 31.24,
+        "Longconfirmed": 36.51
       },
       "geometry": {
         "type": "Point",
@@ -1039,9 +1177,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 48.3794,
-        "Long": 31.1656
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 48.3794,
+        "Longconfirmed": 31.1656
       },
       "geometry": {
         "type": "Point",
@@ -1054,9 +1194,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 13.0,
-        "Lat": 47.1625,
-        "Long": 19.5033
+        "3/12/20confirmed": 13,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 47.1625,
+        "Longconfirmed": 19.5033
       },
       "geometry": {
         "type": "Point",
@@ -1069,9 +1211,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": -12.4634,
-        "Long": 130.8456
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -12.4634,
+        "Longconfirmed": 130.8456
       },
       "geometry": {
         "type": "Point",
@@ -1084,9 +1228,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 47.14,
-        "Long": 9.55
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 47.14,
+        "Longconfirmed": 9.55
       },
       "geometry": {
         "type": "Point",
@@ -1099,9 +1245,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 49.0,
-        "Lat": 51.9194,
-        "Long": 19.1451
+        "3/12/20confirmed": 49,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 51.9194,
+        "Longconfirmed": 19.1451
       },
       "geometry": {
         "type": "Point",
@@ -1114,9 +1262,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 7.0,
-        "Lat": 34.0,
-        "Long": 9.0
+        "3/12/20confirmed": 7,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 34.0,
+        "Longconfirmed": 9.0
       },
       "geometry": {
         "type": "Point",
@@ -1129,9 +1279,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 11.0,
-        "Lat": 43.9159,
-        "Long": 17.6791
+        "3/12/20confirmed": 11,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.9159,
+        "Longconfirmed": 17.6791
       },
       "geometry": {
         "type": "Point",
@@ -1144,9 +1296,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 89.0,
-        "Lat": 46.1512,
-        "Long": 14.9955
+        "3/12/20confirmed": 89,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 46.1512,
+        "Longconfirmed": 14.9955
       },
       "geometry": {
         "type": "Point",
@@ -1159,9 +1313,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 17.0,
-        "Lat": -30.5595,
-        "Long": 22.9375
+        "3/12/20confirmed": 17,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -30.5595,
+        "Longconfirmed": 22.9375
       },
       "geometry": {
         "type": "Point",
@@ -1174,9 +1330,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 27.5142,
-        "Long": 90.4336
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 27.5142,
+        "Longconfirmed": 90.4336
       },
       "geometry": {
         "type": "Point",
@@ -1189,9 +1347,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 3.8480000000000003,
-        "Long": 11.5021
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 3.8480000000000003,
+        "Longconfirmed": 11.5021
       },
       "geometry": {
         "type": "Point",
@@ -1204,9 +1364,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 9.0,
-        "Lat": 4.5709,
-        "Long": -74.2973
+        "3/12/20confirmed": 9,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 4.5709,
+        "Longconfirmed": -74.2973
       },
       "geometry": {
         "type": "Point",
@@ -1219,9 +1381,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 22.0,
-        "Lat": 9.7489,
-        "Long": -83.7534
+        "3/12/20confirmed": 22,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 9.7489,
+        "Longconfirmed": -83.7534
       },
       "geometry": {
         "type": "Point",
@@ -1234,9 +1398,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 15.0,
-        "Lat": -9.19,
-        "Long": -75.0152
+        "3/12/20confirmed": 15,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -9.19,
+        "Longconfirmed": -75.0152
       },
       "geometry": {
         "type": "Point",
@@ -1249,9 +1415,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 19.0,
-        "Lat": 44.0165,
-        "Long": 21.0059
+        "3/12/20confirmed": 19,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 44.0165,
+        "Longconfirmed": 21.0059
       },
       "geometry": {
         "type": "Point",
@@ -1264,9 +1432,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 16.0,
-        "Lat": 48.669,
-        "Long": 19.699
+        "3/12/20confirmed": 16,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 48.669,
+        "Longconfirmed": 19.699
       },
       "geometry": {
         "type": "Point",
@@ -1279,9 +1449,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 8.6195,
-        "Long": 0.8248
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 8.6195,
+        "Longconfirmed": 0.8248
       },
       "geometry": {
         "type": "Point",
@@ -1294,9 +1466,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 6.0,
-        "Lat": 35.9375,
-        "Long": 14.3754
+        "3/12/20confirmed": 6,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 35.9375,
+        "Longconfirmed": 14.3754
       },
       "geometry": {
         "type": "Point",
@@ -1309,9 +1483,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 3.0,
-        "Lat": 14.6415,
-        "Long": -61.0242
+        "3/12/20confirmed": 3,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 14.6415,
+        "Longconfirmed": -61.0242
       },
       "geometry": {
         "type": "Point",
@@ -1324,9 +1500,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 7.0,
-        "Lat": 42.7339,
-        "Long": 25.4858
+        "3/12/20confirmed": 7,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.7339,
+        "Longconfirmed": 25.4858
       },
       "geometry": {
         "type": "Point",
@@ -1339,9 +1517,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 8.0,
-        "Lat": 3.2028,
-        "Long": 73.2207
+        "3/12/20confirmed": 8,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 3.2028,
+        "Longconfirmed": 73.2207
       },
       "geometry": {
         "type": "Point",
@@ -1354,9 +1534,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 3.0,
-        "Lat": 23.685,
-        "Long": 90.3563
+        "3/12/20confirmed": 3,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 23.685,
+        "Longconfirmed": 90.3563
       },
       "geometry": {
         "type": "Point",
@@ -1369,9 +1551,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 5.0,
-        "Lat": -23.4425,
-        "Long": -58.4438
+        "3/12/20confirmed": 5,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -23.4425,
+        "Longconfirmed": -58.4438
       },
       "geometry": {
         "type": "Point",
@@ -1384,9 +1568,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 42.0,
-        "Lat": 51.2538,
-        "Long": -85.3232
+        "3/12/20confirmed": 42,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 4,
+        "Latconfirmed": 51.2538,
+        "Longconfirmed": -85.3232
       },
       "geometry": {
         "type": "Point",
@@ -1399,9 +1585,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 19.0,
-        "Lat": 53.9333,
-        "Long": -116.5765
+        "3/12/20confirmed": 19,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 53.9333,
+        "Longconfirmed": -116.5765
       },
       "geometry": {
         "type": "Point",
@@ -1414,9 +1602,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 9.0,
-        "Lat": 52.9399,
-        "Long": -73.5491
+        "3/12/20confirmed": 9,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 52.9399,
+        "Longconfirmed": -73.5491
       },
       "geometry": {
         "type": "Point",
@@ -1429,9 +1619,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 23.0,
-        "Lat": 41.1533,
-        "Long": 20.1683
+        "3/12/20confirmed": 23,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.1533,
+        "Longconfirmed": 20.1683
       },
       "geometry": {
         "type": "Point",
@@ -1444,9 +1636,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 6.0,
-        "Lat": 35.1264,
-        "Long": 33.4299
+        "3/12/20confirmed": 6,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 35.1264,
+        "Longconfirmed": 33.4299
       },
       "geometry": {
         "type": "Point",
@@ -1459,9 +1653,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 11.0,
-        "Lat": 4.5353,
-        "Long": 114.7277
+        "3/12/20confirmed": 11,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 4.5353,
+        "Longconfirmed": 114.7277
       },
       "geometry": {
         "type": "Point",
@@ -1474,9 +1670,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 442.0,
-        "Lat": 47.4009,
-        "Long": -121.4905
+        "3/12/20confirmed": 442,
+        "3/12/20dead": 31,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 47.4009,
+        "Longconfirmed": -121.4905
       },
       "geometry": {
         "type": "Point",
@@ -1489,9 +1687,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 328.0,
-        "Lat": 42.1657,
-        "Long": -74.9481
+        "3/12/20confirmed": 328,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.1657,
+        "Longconfirmed": -74.9481
       },
       "geometry": {
         "type": "Point",
@@ -1504,9 +1704,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 221.0,
-        "Lat": 36.1162,
-        "Long": -119.6816
+        "3/12/20confirmed": 221,
+        "3/12/20dead": 4,
+        "3/12/20recovered": 6,
+        "Latconfirmed": 36.1162,
+        "Longconfirmed": -119.6816
       },
       "geometry": {
         "type": "Point",
@@ -1519,9 +1721,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 108.0,
-        "Lat": 42.2302,
-        "Long": -71.5301
+        "3/12/20confirmed": 108,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 42.2302,
+        "Longconfirmed": -71.5301
       },
       "geometry": {
         "type": "Point",
@@ -1534,9 +1738,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 46.0,
-        "Lat": 35.4437,
-        "Long": 139.638
+        "3/12/20confirmed": 46,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 35.4437,
+        "Longconfirmed": 139.638
       },
       "geometry": {
         "type": "Point",
@@ -1549,9 +1755,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 21.0,
-        "Lat": 37.6489,
-        "Long": -122.6655
+        "3/12/20confirmed": 21,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.6489,
+        "Longconfirmed": -122.6655
       },
       "geometry": {
         "type": "Point",
@@ -1564,9 +1772,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 31.0,
-        "Lat": 33.0406,
-        "Long": -83.6431
+        "3/12/20confirmed": 31,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 33.0406,
+        "Longconfirmed": -83.6431
       },
       "geometry": {
         "type": "Point",
@@ -1579,9 +1789,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 45.0,
-        "Lat": 39.0598,
-        "Long": -105.3111
+        "3/12/20confirmed": 45,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.0598,
+        "Longconfirmed": -105.3111
       },
       "geometry": {
         "type": "Point",
@@ -1594,9 +1806,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 35.0,
-        "Lat": 27.7663,
-        "Long": -81.6868
+        "3/12/20confirmed": 35,
+        "3/12/20dead": 2,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 27.7663,
+        "Longconfirmed": -81.6868
       },
       "geometry": {
         "type": "Point",
@@ -1609,9 +1823,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 29.0,
-        "Lat": 40.2989,
-        "Long": -74.521
+        "3/12/20confirmed": 29,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.2989,
+        "Longconfirmed": -74.521
       },
       "geometry": {
         "type": "Point",
@@ -1624,9 +1840,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 24.0,
-        "Lat": 44.571999999999996,
-        "Long": -122.0709
+        "3/12/20confirmed": 24,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 44.571999999999996,
+        "Longconfirmed": -122.0709
       },
       "geometry": {
         "type": "Point",
@@ -1639,9 +1857,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 27.0,
-        "Lat": 31.0545,
-        "Long": -97.5635
+        "3/12/20confirmed": 27,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 31.0545,
+        "Longconfirmed": -97.5635
       },
       "geometry": {
         "type": "Point",
@@ -1654,9 +1874,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 32.0,
-        "Lat": 40.3495,
-        "Long": -88.9861
+        "3/12/20confirmed": 32,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 2,
+        "Latconfirmed": 40.3495,
+        "Longconfirmed": -88.9861
       },
       "geometry": {
         "type": "Point",
@@ -1669,9 +1891,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 22.0,
-        "Lat": 40.5908,
-        "Long": -77.2098
+        "3/12/20confirmed": 22,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.5908,
+        "Longconfirmed": -77.2098
       },
       "geometry": {
         "type": "Point",
@@ -1684,9 +1908,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 16.0,
-        "Lat": 42.0115,
-        "Long": -93.2105
+        "3/12/20confirmed": 16,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.0115,
+        "Longconfirmed": -93.2105
       },
       "geometry": {
         "type": "Point",
@@ -1699,9 +1925,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 12.0,
-        "Lat": 39.0639,
-        "Long": -76.8021
+        "3/12/20confirmed": 12,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.0639,
+        "Longconfirmed": -76.8021
       },
       "geometry": {
         "type": "Point",
@@ -1714,9 +1942,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 15.0,
-        "Lat": 35.6301,
-        "Long": -79.8064
+        "3/12/20confirmed": 15,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 35.6301,
+        "Longconfirmed": -79.8064
       },
       "geometry": {
         "type": "Point",
@@ -1729,9 +1959,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 12.0,
-        "Lat": 33.8569,
-        "Long": -80.945
+        "3/12/20confirmed": 12,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 33.8569,
+        "Longconfirmed": -80.945
       },
       "geometry": {
         "type": "Point",
@@ -1744,9 +1976,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 18.0,
-        "Lat": 35.7478,
-        "Long": -86.6923
+        "3/12/20confirmed": 18,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 35.7478,
+        "Longconfirmed": -86.6923
       },
       "geometry": {
         "type": "Point",
@@ -1759,9 +1993,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 17.0,
-        "Lat": 37.7693,
-        "Long": -78.17
+        "3/12/20confirmed": 17,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.7693,
+        "Longconfirmed": -78.17
       },
       "geometry": {
         "type": "Point",
@@ -1774,9 +2010,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 9.0,
-        "Lat": 33.7298,
-        "Long": -111.4312
+        "3/12/20confirmed": 9,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 33.7298,
+        "Longconfirmed": -111.4312
       },
       "geometry": {
         "type": "Point",
@@ -1789,9 +2027,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 13.0,
-        "Lat": 39.8494,
-        "Long": -86.2583
+        "3/12/20confirmed": 13,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.8494,
+        "Longconfirmed": -86.2583
       },
       "geometry": {
         "type": "Point",
@@ -1804,9 +2044,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 10.0,
-        "Lat": 37.6681,
-        "Long": -84.6701
+        "3/12/20confirmed": 10,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.6681,
+        "Longconfirmed": -84.6701
       },
       "geometry": {
         "type": "Point",
@@ -1819,9 +2061,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 10.0,
-        "Lat": 38.8974,
-        "Long": -77.0268
+        "3/12/20confirmed": 10,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.8974,
+        "Longconfirmed": -77.0268
       },
       "geometry": {
         "type": "Point",
@@ -1834,9 +2078,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 14.0,
-        "Lat": 38.3135,
-        "Long": -117.0554
+        "3/12/20confirmed": 14,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.3135,
+        "Longconfirmed": -117.0554
       },
       "geometry": {
         "type": "Point",
@@ -1849,9 +2095,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 6.0,
-        "Lat": 43.4525,
-        "Long": -71.5639
+        "3/12/20confirmed": 6,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.4525,
+        "Longconfirmed": -71.5639
       },
       "geometry": {
         "type": "Point",
@@ -1864,9 +2112,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 9.0,
-        "Lat": 45.6945,
-        "Long": -93.9002
+        "3/12/20confirmed": 9,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 45.6945,
+        "Longconfirmed": -93.9002
       },
       "geometry": {
         "type": "Point",
@@ -1879,9 +2129,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 10.0,
-        "Lat": 41.1254,
-        "Long": -98.2681
+        "3/12/20confirmed": 10,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.1254,
+        "Longconfirmed": -98.2681
       },
       "geometry": {
         "type": "Point",
@@ -1894,9 +2146,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 5.0,
-        "Lat": 40.3888,
-        "Long": -82.7649
+        "3/12/20confirmed": 5,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.3888,
+        "Longconfirmed": -82.7649
       },
       "geometry": {
         "type": "Point",
@@ -1909,9 +2163,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 5.0,
-        "Lat": 41.6809,
-        "Long": -71.5118
+        "3/12/20confirmed": 5,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.6809,
+        "Longconfirmed": -71.5118
       },
       "geometry": {
         "type": "Point",
@@ -1924,9 +2180,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 8.0,
-        "Lat": 44.2685,
-        "Long": -89.6165
+        "3/12/20confirmed": 8,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 44.2685,
+        "Longconfirmed": -89.6165
       },
       "geometry": {
         "type": "Point",
@@ -1939,9 +2197,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 5.0,
-        "Lat": 41.5978,
-        "Long": -72.7554
+        "3/12/20confirmed": 5,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.5978,
+        "Longconfirmed": -72.7554
       },
       "geometry": {
         "type": "Point",
@@ -1954,9 +2214,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 21.0943,
-        "Long": -157.4983
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 21.0943,
+        "Longconfirmed": -157.4983
       },
       "geometry": {
         "type": "Point",
@@ -1969,9 +2231,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 35.5653,
-        "Long": -96.9289
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 35.5653,
+        "Longconfirmed": -96.9289
       },
       "geometry": {
         "type": "Point",
@@ -1984,9 +2248,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 5.0,
-        "Lat": 40.15,
-        "Long": -111.8624
+        "3/12/20confirmed": 5,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.15,
+        "Longconfirmed": -111.8624
       },
       "geometry": {
         "type": "Point",
@@ -1999,9 +2265,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 12.2383,
-        "Long": -1.5616
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 12.2383,
+        "Longconfirmed": -1.5616
       },
       "geometry": {
         "type": "Point",
@@ -2014,9 +2282,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 41.9029,
-        "Long": 12.4534
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.9029,
+        "Longconfirmed": 12.4534
       },
       "geometry": {
         "type": "Point",
@@ -2029,9 +2299,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 46.8625,
-        "Long": 103.8467
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 46.8625,
+        "Longconfirmed": 103.8467
       },
       "geometry": {
         "type": "Point",
@@ -2044,9 +2316,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 11.0,
-        "Lat": 8.538,
-        "Long": -80.7821
+        "3/12/20confirmed": 11,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 8.538,
+        "Longconfirmed": -80.7821
       },
       "geometry": {
         "type": "Point",
@@ -2059,9 +2333,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 38.5266,
-        "Long": -96.7265
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.5266,
+        "Longconfirmed": -96.7265
       },
       "geometry": {
         "type": "Point",
@@ -2074,9 +2350,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 19.0,
-        "Lat": 31.1695,
-        "Long": -91.8678
+        "3/12/20confirmed": 19,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 31.1695,
+        "Longconfirmed": -91.8678
       },
       "geometry": {
         "type": "Point",
@@ -2089,9 +2367,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 38.4561,
-        "Long": -92.2884
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.4561,
+        "Longconfirmed": -92.2884
       },
       "geometry": {
         "type": "Point",
@@ -2104,9 +2384,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 44.0459,
-        "Long": -72.7107
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 44.0459,
+        "Longconfirmed": -72.7107
       },
       "geometry": {
         "type": "Point",
@@ -2119,9 +2401,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 61.3707,
-        "Long": -152.4044
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 61.3707,
+        "Longconfirmed": -152.4044
       },
       "geometry": {
         "type": "Point",
@@ -2134,9 +2418,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 6.0,
-        "Lat": 34.9697,
-        "Long": -92.3731
+        "3/12/20confirmed": 6,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 34.9697,
+        "Longconfirmed": -92.3731
       },
       "geometry": {
         "type": "Point",
@@ -2149,9 +2435,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 39.3185,
-        "Long": -75.5071
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.3185,
+        "Longconfirmed": -75.5071
       },
       "geometry": {
         "type": "Point",
@@ -2164,9 +2452,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 44.2405,
-        "Long": -114.4788
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 44.2405,
+        "Longconfirmed": -114.4788
       },
       "geometry": {
         "type": "Point",
@@ -2179,9 +2469,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 44.6939,
-        "Long": -69.3819
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 44.6939,
+        "Longconfirmed": -69.3819
       },
       "geometry": {
         "type": "Point",
@@ -2194,9 +2486,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 43.3266,
-        "Long": -84.5361
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.3266,
+        "Longconfirmed": -84.5361
       },
       "geometry": {
         "type": "Point",
@@ -2209,9 +2503,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 32.7416,
-        "Long": -89.6787
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 32.7416,
+        "Longconfirmed": -89.6787
       },
       "geometry": {
         "type": "Point",
@@ -2224,9 +2520,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 46.9219,
-        "Long": -110.4544
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 46.9219,
+        "Longconfirmed": -110.4544
       },
       "geometry": {
         "type": "Point",
@@ -2239,9 +2537,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 5.0,
-        "Lat": 34.8405,
-        "Long": -106.2485
+        "3/12/20confirmed": 5,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 34.8405,
+        "Longconfirmed": -106.2485
       },
       "geometry": {
         "type": "Point",
@@ -2254,9 +2554,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 47.5289,
-        "Long": -99.78399999999999
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 47.5289,
+        "Longconfirmed": -99.78399999999999
       },
       "geometry": {
         "type": "Point",
@@ -2269,9 +2571,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 8.0,
-        "Lat": 44.2998,
-        "Long": -99.4388
+        "3/12/20confirmed": 8,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 44.2998,
+        "Longconfirmed": -99.4388
       },
       "geometry": {
         "type": "Point",
@@ -2284,9 +2588,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.4912,
-        "Long": -80.9545
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.4912,
+        "Longconfirmed": -80.9545
       },
       "geometry": {
         "type": "Point",
@@ -2299,9 +2605,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 42.756,
-        "Long": -107.3025
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.756,
+        "Longconfirmed": -107.3025
       },
       "geometry": {
         "type": "Point",
@@ -2314,9 +2622,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 67781.0,
-        "Lat": 30.9756,
-        "Long": 112.2707
+        "3/12/20confirmed": 67781,
+        "3/12/20dead": 3056,
+        "3/12/20recovered": 50318,
+        "Latconfirmed": 30.9756,
+        "Longconfirmed": 112.2707
       },
       "geometry": {
         "type": "Point",
@@ -2329,9 +2639,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 10075.0,
-        "Lat": 32.0,
-        "Long": 53.0
+        "3/12/20confirmed": 10075,
+        "3/12/20dead": 429,
+        "3/12/20recovered": 2959,
+        "Latconfirmed": 32.0,
+        "Longconfirmed": 53.0
       },
       "geometry": {
         "type": "Point",
@@ -2344,9 +2656,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 7869.0,
-        "Lat": 36.0,
-        "Long": 128.0
+        "3/12/20confirmed": 7869,
+        "3/12/20dead": 66,
+        "3/12/20recovered": 333,
+        "Latconfirmed": 36.0,
+        "Longconfirmed": 128.0
       },
       "geometry": {
         "type": "Point",
@@ -2359,9 +2673,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2281.0,
-        "Lat": 46.2276,
-        "Long": 2.2137
+        "3/12/20confirmed": 2281,
+        "3/12/20dead": 48,
+        "3/12/20recovered": 12,
+        "Latconfirmed": 46.2276,
+        "Longconfirmed": 2.2137
       },
       "geometry": {
         "type": "Point",
@@ -2374,9 +2690,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1356.0,
-        "Lat": 23.3417,
-        "Long": 113.4244
+        "3/12/20confirmed": 1356,
+        "3/12/20dead": 8,
+        "3/12/20recovered": 1289,
+        "Latconfirmed": 23.3417,
+        "Longconfirmed": 113.4244
       },
       "geometry": {
         "type": "Point",
@@ -2389,9 +2707,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1273.0,
-        "Lat": 33.882,
-        "Long": 113.61399999999999
+        "3/12/20confirmed": 1273,
+        "3/12/20dead": 22,
+        "3/12/20recovered": 1249,
+        "Latconfirmed": 33.882,
+        "Longconfirmed": 113.61399999999999
       },
       "geometry": {
         "type": "Point",
@@ -2404,9 +2724,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1215.0,
-        "Lat": 29.1832,
-        "Long": 120.0934
+        "3/12/20confirmed": 1215,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 1197,
+        "Latconfirmed": 29.1832,
+        "Longconfirmed": 120.0934
       },
       "geometry": {
         "type": "Point",
@@ -2419,9 +2741,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1018.0,
-        "Lat": 27.6104,
-        "Long": 111.7088
+        "3/12/20confirmed": 1018,
+        "3/12/20dead": 4,
+        "3/12/20recovered": 999,
+        "Latconfirmed": 27.6104,
+        "Longconfirmed": 111.7088
       },
       "geometry": {
         "type": "Point",
@@ -2434,9 +2758,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 990.0,
-        "Lat": 31.8257,
-        "Long": 117.2264
+        "3/12/20confirmed": 990,
+        "3/12/20dead": 6,
+        "3/12/20recovered": 984,
+        "Latconfirmed": 31.8257,
+        "Longconfirmed": 117.2264
       },
       "geometry": {
         "type": "Point",
@@ -2449,9 +2775,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 935.0,
-        "Lat": 27.614,
-        "Long": 115.7221
+        "3/12/20confirmed": 935,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 934,
+        "Latconfirmed": 27.614,
+        "Longconfirmed": 115.7221
       },
       "geometry": {
         "type": "Point",
@@ -2464,9 +2792,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 760.0,
-        "Lat": 36.3427,
-        "Long": 118.1498
+        "3/12/20confirmed": 760,
+        "3/12/20dead": 6,
+        "3/12/20recovered": 734,
+        "Latconfirmed": 36.3427,
+        "Longconfirmed": 118.1498
       },
       "geometry": {
         "type": "Point",
@@ -2479,9 +2809,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 696.0,
-        "Lat": 35.4437,
-        "Long": 139.638
+        "3/12/20confirmed": 696,
+        "3/12/20dead": 7,
+        "3/12/20recovered": 325,
+        "Latconfirmed": 35.4437,
+        "Longconfirmed": 139.638
       },
       "geometry": {
         "type": "Point",
@@ -2494,9 +2826,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 631.0,
-        "Lat": 32.9711,
-        "Long": 119.455
+        "3/12/20confirmed": 631,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 629,
+        "Latconfirmed": 32.9711,
+        "Longconfirmed": 119.455
       },
       "geometry": {
         "type": "Point",
@@ -2509,9 +2843,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 576.0,
-        "Lat": 30.0572,
-        "Long": 107.874
+        "3/12/20confirmed": 576,
+        "3/12/20dead": 6,
+        "3/12/20recovered": 564,
+        "Latconfirmed": 30.0572,
+        "Longconfirmed": 107.874
       },
       "geometry": {
         "type": "Point",
@@ -2524,9 +2860,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 539.0,
-        "Lat": 30.6171,
-        "Long": 102.7103
+        "3/12/20confirmed": 539,
+        "3/12/20dead": 3,
+        "3/12/20recovered": 498,
+        "Latconfirmed": 30.6171,
+        "Longconfirmed": 102.7103
       },
       "geometry": {
         "type": "Point",
@@ -2539,9 +2877,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 482.0,
-        "Lat": 47.861999999999995,
-        "Long": 127.7615
+        "3/12/20confirmed": 482,
+        "3/12/20dead": 13,
+        "3/12/20recovered": 441,
+        "Latconfirmed": 47.861999999999995,
+        "Longconfirmed": 127.7615
       },
       "geometry": {
         "type": "Point",
@@ -2554,9 +2894,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 615.0,
-        "Lat": 56.2639,
-        "Long": 9.5018
+        "3/12/20confirmed": 615,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 56.2639,
+        "Longconfirmed": 9.5018
       },
       "geometry": {
         "type": "Point",
@@ -2569,9 +2911,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 435.0,
-        "Lat": 40.1824,
-        "Long": 116.4142
+        "3/12/20confirmed": 435,
+        "3/12/20dead": 8,
+        "3/12/20recovered": 334,
+        "Latconfirmed": 40.1824,
+        "Longconfirmed": 116.4142
       },
       "geometry": {
         "type": "Point",
@@ -2584,9 +2928,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 344.0,
-        "Lat": 31.201999999999998,
-        "Long": 121.4491
+        "3/12/20confirmed": 344,
+        "3/12/20dead": 3,
+        "3/12/20recovered": 321,
+        "Latconfirmed": 31.201999999999998,
+        "Longconfirmed": 121.4491
       },
       "geometry": {
         "type": "Point",
@@ -2599,9 +2945,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 318.0,
-        "Lat": 39.549,
-        "Long": 116.1306
+        "3/12/20confirmed": 318,
+        "3/12/20dead": 6,
+        "3/12/20recovered": 308,
+        "Latconfirmed": 39.549,
+        "Longconfirmed": 116.1306
       },
       "geometry": {
         "type": "Point",
@@ -2614,9 +2962,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 296.0,
-        "Lat": 26.0789,
-        "Long": 117.9874
+        "3/12/20confirmed": 296,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 295,
+        "Latconfirmed": 26.0789,
+        "Longconfirmed": 117.9874
       },
       "geometry": {
         "type": "Point",
@@ -2629,9 +2979,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 252.0,
-        "Lat": 23.8298,
-        "Long": 108.7881
+        "3/12/20confirmed": 252,
+        "3/12/20dead": 2,
+        "3/12/20recovered": 241,
+        "Latconfirmed": 23.8298,
+        "Longconfirmed": 108.7881
       },
       "geometry": {
         "type": "Point",
@@ -2644,9 +2996,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 245.0,
-        "Lat": 35.1917,
-        "Long": 108.8701
+        "3/12/20confirmed": 245,
+        "3/12/20dead": 2,
+        "3/12/20recovered": 232,
+        "Latconfirmed": 35.1917,
+        "Longconfirmed": 108.8701
       },
       "geometry": {
         "type": "Point",
@@ -2659,9 +3013,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 174.0,
-        "Lat": 24.974,
-        "Long": 101.48700000000001
+        "3/12/20confirmed": 174,
+        "3/12/20dead": 2,
+        "3/12/20recovered": 170,
+        "Latconfirmed": 24.974,
+        "Longconfirmed": 101.48700000000001
       },
       "geometry": {
         "type": "Point",
@@ -2674,9 +3030,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 168.0,
-        "Lat": 19.1959,
-        "Long": 109.7453
+        "3/12/20confirmed": 168,
+        "3/12/20dead": 6,
+        "3/12/20recovered": 160,
+        "Latconfirmed": 19.1959,
+        "Longconfirmed": 109.7453
       },
       "geometry": {
         "type": "Point",
@@ -2689,9 +3047,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 146.0,
-        "Lat": 26.8154,
-        "Long": 106.8748
+        "3/12/20confirmed": 146,
+        "3/12/20dead": 2,
+        "3/12/20recovered": 137,
+        "Latconfirmed": 26.8154,
+        "Longconfirmed": 106.8748
       },
       "geometry": {
         "type": "Point",
@@ -2704,9 +3064,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 136.0,
-        "Lat": 39.3054,
-        "Long": 117.323
+        "3/12/20confirmed": 136,
+        "3/12/20dead": 3,
+        "3/12/20recovered": 132,
+        "Latconfirmed": 39.3054,
+        "Longconfirmed": 117.323
       },
       "geometry": {
         "type": "Point",
@@ -2719,9 +3081,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 133.0,
-        "Lat": 37.5777,
-        "Long": 112.2922
+        "3/12/20confirmed": 133,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 132,
+        "Latconfirmed": 37.5777,
+        "Longconfirmed": 112.2922
       },
       "geometry": {
         "type": "Point",
@@ -2734,9 +3098,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 127.0,
-        "Lat": 37.8099,
-        "Long": 101.0583
+        "3/12/20confirmed": 127,
+        "3/12/20dead": 2,
+        "3/12/20recovered": 88,
+        "Latconfirmed": 37.8099,
+        "Longconfirmed": 101.0583
       },
       "geometry": {
         "type": "Point",
@@ -2749,9 +3115,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 129.0,
-        "Lat": 22.3,
-        "Long": 114.2
+        "3/12/20confirmed": 129,
+        "3/12/20dead": 3,
+        "3/12/20recovered": 67,
+        "Latconfirmed": 22.3,
+        "Longconfirmed": 114.2
       },
       "geometry": {
         "type": "Point",
@@ -2764,9 +3132,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 125.0,
-        "Lat": 41.2956,
-        "Long": 122.6085
+        "3/12/20confirmed": 125,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 112,
+        "Latconfirmed": 41.2956,
+        "Longconfirmed": 122.6085
       },
       "geometry": {
         "type": "Point",
@@ -2779,9 +3149,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 93.0,
-        "Lat": 43.6661,
-        "Long": 126.1923
+        "3/12/20confirmed": 93,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 91,
+        "Latconfirmed": 43.6661,
+        "Longconfirmed": 126.1923
       },
       "geometry": {
         "type": "Point",
@@ -2794,9 +3166,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 94.0,
-        "Lat": 49.8175,
-        "Long": 15.472999999999999
+        "3/12/20confirmed": 94,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 49.8175,
+        "Longconfirmed": 15.472999999999999
       },
       "geometry": {
         "type": "Point",
@@ -2809,9 +3183,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 76.0,
-        "Lat": 41.1129,
-        "Long": 85.2401
+        "3/12/20confirmed": 76,
+        "3/12/20dead": 3,
+        "3/12/20recovered": 73,
+        "Latconfirmed": 41.1129,
+        "Longconfirmed": 85.2401
       },
       "geometry": {
         "type": "Point",
@@ -2824,9 +3200,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 75.0,
-        "Lat": 44.0935,
-        "Long": 113.9448
+        "3/12/20confirmed": 75,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 71,
+        "Latconfirmed": 44.0935,
+        "Longconfirmed": 113.9448
       },
       "geometry": {
         "type": "Point",
@@ -2839,9 +3217,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 75.0,
-        "Lat": 37.2692,
-        "Long": 106.1655
+        "3/12/20confirmed": 75,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 72,
+        "Latconfirmed": 37.2692,
+        "Longconfirmed": 106.1655
       },
       "geometry": {
         "type": "Point",
@@ -2854,9 +3234,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 49.0,
-        "Lat": 23.7,
-        "Long": 121.0
+        "3/12/20confirmed": 49,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 20,
+        "Latconfirmed": 23.7,
+        "Longconfirmed": 121.0
       },
       "geometry": {
         "type": "Point",
@@ -2869,9 +3251,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 39.0,
-        "Lat": 16.0,
-        "Long": 108.0
+        "3/12/20confirmed": 39,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 16,
+        "Latconfirmed": 16.0,
+        "Longconfirmed": 108.0
       },
       "geometry": {
         "type": "Point",
@@ -2884,9 +3268,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 28.0,
-        "Lat": 60.0,
-        "Long": 90.0
+        "3/12/20confirmed": 28,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 3,
+        "Latconfirmed": 60.0,
+        "Longconfirmed": 90.0
       },
       "geometry": {
         "type": "Point",
@@ -2899,9 +3285,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 18.0,
-        "Lat": 35.7452,
-        "Long": 95.9956
+        "3/12/20confirmed": 18,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 18,
+        "Latconfirmed": 35.7452,
+        "Longconfirmed": 95.9956
       },
       "geometry": {
         "type": "Point",
@@ -2914,9 +3302,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 10.0,
-        "Lat": 22.1667,
-        "Long": 113.55
+        "3/12/20confirmed": 10,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 10,
+        "Latconfirmed": 22.1667,
+        "Longconfirmed": 113.55
       },
       "geometry": {
         "type": "Point",
@@ -2929,9 +3319,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 3.0,
-        "Lat": 47.4116,
-        "Long": 28.3699
+        "3/12/20confirmed": 3,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 47.4116,
+        "Longconfirmed": 28.3699
       },
       "geometry": {
         "type": "Point",
@@ -2944,9 +3336,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": -16.2902,
-        "Long": -63.5887
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -16.2902,
+        "Longconfirmed": -63.5887
       },
       "geometry": {
         "type": "Point",
@@ -2959,9 +3353,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 61.8926,
-        "Long": -6.9118
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 61.8926,
+        "Longconfirmed": -6.9118
       },
       "geometry": {
         "type": "Point",
@@ -2974,9 +3370,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 18.0708,
-        "Long": -63.0501
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 18.0708,
+        "Longconfirmed": -63.0501
       },
       "geometry": {
         "type": "Point",
@@ -2989,9 +3387,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 15.2,
-        "Long": -86.2419
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 15.2,
+        "Longconfirmed": -86.2419
       },
       "geometry": {
         "type": "Point",
@@ -3004,9 +3404,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 49.3723,
-        "Long": -2.3644
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 49.3723,
+        "Longconfirmed": -2.3644
       },
       "geometry": {
         "type": "Point",
@@ -3019,9 +3421,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 46.5653,
-        "Long": -66.4619
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 46.5653,
+        "Longconfirmed": -66.4619
       },
       "geometry": {
         "type": "Point",
@@ -3034,9 +3438,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 31.6927,
-        "Long": 88.0924
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 31.6927,
+        "Longconfirmed": 88.0924
       },
       "geometry": {
         "type": "Point",
@@ -3049,9 +3455,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": -4.0383,
-        "Long": 21.7587
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -4.0383,
+        "Longconfirmed": 21.7587
       },
       "geometry": {
         "type": "Point",
@@ -3064,9 +3472,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 7.54,
-        "Long": -5.5471
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 7.54,
+        "Longconfirmed": -5.5471
       },
       "geometry": {
         "type": "Point",
@@ -3079,9 +3489,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 17.9,
-        "Long": -62.8333
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 17.9,
+        "Longconfirmed": -62.8333
       },
       "geometry": {
         "type": "Point",
@@ -3094,9 +3506,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 2.0,
-        "Lat": 18.1096,
-        "Long": -77.2975
+        "3/12/20confirmed": 2,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 18.1096,
+        "Longconfirmed": -77.2975
       },
       "geometry": {
         "type": "Point",
@@ -3109,9 +3523,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 38.9637,
-        "Long": 35.2433
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.9637,
+        "Longconfirmed": 35.2433
       },
       "geometry": {
         "type": "Point",
@@ -3124,9 +3540,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 36.1408,
-        "Long": -5.3536
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 1,
+        "Latconfirmed": 36.1408,
+        "Longconfirmed": -5.3536
       },
       "geometry": {
         "type": "Point",
@@ -3139,9 +3557,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 47.6477,
-        "Long": -122.6413
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 47.6477,
+        "Longconfirmed": -122.6413
       },
       "geometry": {
         "type": "Point",
@@ -3154,9 +3574,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.3105,
-        "Long": -121.9018
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.3105,
+        "Longconfirmed": -121.9018
       },
       "geometry": {
         "type": "Point",
@@ -3169,9 +3591,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 37.0454,
-        "Long": -121.958
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.0454,
+        "Longconfirmed": -121.958
       },
       "geometry": {
         "type": "Point",
@@ -3184,9 +3608,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.5025,
-        "Long": -122.2654
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.5025,
+        "Longconfirmed": -122.2654
       },
       "geometry": {
         "type": "Point",
@@ -3199,9 +3625,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 34.3705,
-        "Long": -119.1391
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 34.3705,
+        "Longconfirmed": -119.1391
       },
       "geometry": {
         "type": "Point",
@@ -3214,9 +3642,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.4097,
-        "Long": -71.8571
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.4097,
+        "Longconfirmed": -71.8571
       },
       "geometry": {
         "type": "Point",
@@ -3229,9 +3659,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 33.9191,
-        "Long": -84.0167
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 33.9191,
+        "Longconfirmed": -84.0167
       },
       "geometry": {
         "type": "Point",
@@ -3244,9 +3676,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 33.7956,
-        "Long": -84.2279
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 33.7956,
+        "Longconfirmed": -84.2279
       },
       "geometry": {
         "type": "Point",
@@ -3259,9 +3693,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 37.5455,
-        "Long": -82.7779
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.5455,
+        "Longconfirmed": -82.7779
       },
       "geometry": {
         "type": "Point",
@@ -3274,9 +3710,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 33.4502,
-        "Long": -84.4803
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 33.4502,
+        "Longconfirmed": -84.4803
       },
       "geometry": {
         "type": "Point",
@@ -3289,9 +3727,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 32.4893,
-        "Long": -94.8521
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 32.4893,
+        "Longconfirmed": -94.8521
       },
       "geometry": {
         "type": "Point",
@@ -3304,9 +3744,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.2589,
-        "Long": -74.124
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.2589,
+        "Longconfirmed": -74.124
       },
       "geometry": {
         "type": "Point",
@@ -3319,9 +3761,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.0712,
-        "Long": -74.8649
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.0712,
+        "Longconfirmed": -74.8649
       },
       "geometry": {
         "type": "Point",
@@ -3334,9 +3778,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.9259,
-        "Long": -75.1196
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.9259,
+        "Longconfirmed": -75.1196
       },
       "geometry": {
         "type": "Point",
@@ -3349,9 +3795,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.8568,
-        "Long": -74.1285
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.8568,
+        "Longconfirmed": -74.1285
       },
       "geometry": {
         "type": "Point",
@@ -3364,9 +3812,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.6976,
-        "Long": -74.2632
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.6976,
+        "Longconfirmed": -74.2632
       },
       "geometry": {
         "type": "Point",
@@ -3379,9 +3829,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.6553,
-        "Long": -106.8287
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.6553,
+        "Longconfirmed": -106.8287
       },
       "geometry": {
         "type": "Point",
@@ -3394,9 +3846,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.6956,
-        "Long": -105.5943
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.6956,
+        "Longconfirmed": -105.5943
       },
       "geometry": {
         "type": "Point",
@@ -3409,9 +3863,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.6203,
-        "Long": -104.3326
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.6203,
+        "Longconfirmed": -104.3326
       },
       "geometry": {
         "type": "Point",
@@ -3424,9 +3880,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.5458,
-        "Long": -106.9253
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.5458,
+        "Longconfirmed": -106.9253
       },
       "geometry": {
         "type": "Point",
@@ -3439,9 +3897,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.9879,
-        "Long": -88.4016
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.9879,
+        "Longconfirmed": -88.4016
       },
       "geometry": {
         "type": "Point",
@@ -3454,9 +3914,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.0458,
-        "Long": -75.2479
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.0458,
+        "Longconfirmed": -75.2479
       },
       "geometry": {
         "type": "Point",
@@ -3469,9 +3931,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.9526,
-        "Long": -75.1652
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.9526,
+        "Longconfirmed": -75.1652
       },
       "geometry": {
         "type": "Point",
@@ -3484,9 +3948,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 36.8508,
-        "Long": -76.2859
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 36.8508,
+        "Longconfirmed": -76.2859
       },
       "geometry": {
         "type": "Point",
@@ -3499,9 +3965,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.8816,
-        "Long": -77.09100000000001
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.8816,
+        "Longconfirmed": -77.09100000000001
       },
       "geometry": {
         "type": "Point",
@@ -3514,9 +3982,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.2042,
-        "Long": -77.6078
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.2042,
+        "Longconfirmed": -77.6078
       },
       "geometry": {
         "type": "Point",
@@ -3529,9 +3999,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.0768,
-        "Long": -77.6536
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.0768,
+        "Longconfirmed": -77.6536
       },
       "geometry": {
         "type": "Point",
@@ -3544,9 +4016,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.7849,
-        "Long": -76.8721
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.7849,
+        "Longconfirmed": -76.8721
       },
       "geometry": {
         "type": "Point",
@@ -3559,9 +4033,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.3912,
-        "Long": -95.4778
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.3912,
+        "Longconfirmed": -95.4778
       },
       "geometry": {
         "type": "Point",
@@ -3574,9 +4050,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 34.2465,
-        "Long": -80.607
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 34.2465,
+        "Longconfirmed": -80.607
       },
       "geometry": {
         "type": "Point",
@@ -3589,9 +4067,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 32.0575,
-        "Long": -111.6661
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 32.0575,
+        "Longconfirmed": -111.6661
       },
       "geometry": {
         "type": "Point",
@@ -3604,9 +4084,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.4277,
-        "Long": -85.355
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.4277,
+        "Longconfirmed": -85.355
       },
       "geometry": {
         "type": "Point",
@@ -3619,9 +4101,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.8522,
-        "Long": -77.2865
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.8522,
+        "Longconfirmed": -77.2865
       },
       "geometry": {
         "type": "Point",
@@ -3634,9 +4118,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.0106,
-        "Long": -86.4997
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.0106,
+        "Longconfirmed": -86.4997
       },
       "geometry": {
         "type": "Point",
@@ -3649,9 +4135,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 43.0186,
-        "Long": -89.5498
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.0186,
+        "Longconfirmed": -89.5498
       },
       "geometry": {
         "type": "Point",
@@ -3664,9 +4152,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 44.7509,
-        "Long": -92.3814
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 44.7509,
+        "Longconfirmed": -92.3814
       },
       "geometry": {
         "type": "Point",
@@ -3679,9 +4169,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.4339,
-        "Long": -81.6758
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.4339,
+        "Longconfirmed": -81.6758
       },
       "geometry": {
         "type": "Point",
@@ -3694,9 +4186,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.2603,
-        "Long": -111.9522
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.2603,
+        "Longconfirmed": -111.9522
       },
       "geometry": {
         "type": "Point",
@@ -3709,9 +4203,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 43.0279,
-        "Long": -73.135
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.0279,
+        "Longconfirmed": -73.135
       },
       "geometry": {
         "type": "Point",
@@ -3724,9 +4220,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 44.8254,
-        "Long": -93.7842
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 44.8254,
+        "Longconfirmed": -93.7842
       },
       "geometry": {
         "type": "Point",
@@ -3739,9 +4237,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 26.8946,
-        "Long": -81.9098
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 26.8946,
+        "Longconfirmed": -81.9098
       },
       "geometry": {
         "type": "Point",
@@ -3754,9 +4254,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 34.2515,
-        "Long": -84.4803
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 34.2515,
+        "Longconfirmed": -84.4803
       },
       "geometry": {
         "type": "Point",
@@ -3769,9 +4271,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 33.1795,
-        "Long": -96.493
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 33.1795,
+        "Longconfirmed": -96.493
       },
       "geometry": {
         "type": "Point",
@@ -3784,9 +4288,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.1938,
-        "Long": -85.6435
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.1938,
+        "Longconfirmed": -85.6435
       },
       "geometry": {
         "type": "Point",
@@ -3799,9 +4305,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 29.6499,
-        "Long": -90.1121
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 29.6499,
+        "Longconfirmed": -90.1121
       },
       "geometry": {
         "type": "Point",
@@ -3814,9 +4322,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.7909,
-        "Long": -121.8474
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.7909,
+        "Longconfirmed": -121.8474
       },
       "geometry": {
         "type": "Point",
@@ -3829,9 +4339,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 34.8606,
-        "Long": -81.9535
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 34.8606,
+        "Longconfirmed": -81.9535
       },
       "geometry": {
         "type": "Point",
@@ -3844,9 +4356,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.4333,
-        "Long": -84.3542
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.4333,
+        "Longconfirmed": -84.3542
       },
       "geometry": {
         "type": "Point",
@@ -3859,9 +4373,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.6699,
-        "Long": -91.5984
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.6699,
+        "Longconfirmed": -91.5984
       },
       "geometry": {
         "type": "Point",
@@ -3874,9 +4390,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.3118,
-        "Long": -73.1822
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.3118,
+        "Longconfirmed": -73.1822
       },
       "geometry": {
         "type": "Point",
@@ -3889,9 +4407,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 36.1343,
-        "Long": -86.822
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 36.1343,
+        "Longconfirmed": -86.822
       },
       "geometry": {
         "type": "Point",
@@ -3904,9 +4424,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 43.1261,
-        "Long": -123.2492
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.1261,
+        "Longconfirmed": -123.2492
       },
       "geometry": {
         "type": "Point",
@@ -3919,9 +4441,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 36.9859,
-        "Long": -119.2321
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 36.9859,
+        "Longconfirmed": -119.2321
       },
       "geometry": {
         "type": "Point",
@@ -3934,9 +4458,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.5839,
-        "Long": -76.3637
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.5839,
+        "Longconfirmed": -76.3637
       },
       "geometry": {
         "type": "Point",
@@ -3949,9 +4475,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.8065,
-        "Long": -86.5401
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.8065,
+        "Longconfirmed": -86.5401
       },
       "geometry": {
         "type": "Point",
@@ -3964,9 +4492,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.7453,
-        "Long": -74.0535
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.7453,
+        "Longconfirmed": -74.0535
       },
       "geometry": {
         "type": "Point",
@@ -3979,9 +4509,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.8454,
-        "Long": -94.8521
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.8454,
+        "Longconfirmed": -94.8521
       },
       "geometry": {
         "type": "Point",
@@ -3994,9 +4526,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 47.175,
-        "Long": -120.9319
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 47.175,
+        "Longconfirmed": -120.9319
       },
       "geometry": {
         "type": "Point",
@@ -4009,9 +4543,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 27.4799,
-        "Long": -82.3452
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 27.4799,
+        "Longconfirmed": -82.3452
       },
       "geometry": {
         "type": "Point",
@@ -4024,9 +4560,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 44.8446,
-        "Long": -122.5927
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 44.8446,
+        "Longconfirmed": -122.5927
       },
       "geometry": {
         "type": "Point",
@@ -4039,9 +4577,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 30.5773,
-        "Long": -86.6611
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 30.5773,
+        "Longconfirmed": -86.6611
       },
       "geometry": {
         "type": "Point",
@@ -4054,9 +4594,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 34.0132,
-        "Long": -85.1479
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 34.0132,
+        "Longconfirmed": -85.1479
       },
       "geometry": {
         "type": "Point",
@@ -4069,9 +4611,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 33.9533,
-        "Long": -117.3961
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 33.9533,
+        "Longconfirmed": -117.3961
       },
       "geometry": {
         "type": "Point",
@@ -4084,9 +4628,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 35.1269,
-        "Long": -89.9253
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 35.1269,
+        "Longconfirmed": -89.9253
       },
       "geometry": {
         "type": "Point",
@@ -4099,9 +4645,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.6103,
-        "Long": -90.4125
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.6103,
+        "Longconfirmed": -90.4125
       },
       "geometry": {
         "type": "Point",
@@ -4114,9 +4662,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.9849,
-        "Long": -72.6151
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.9849,
+        "Longconfirmed": -72.6151
       },
       "geometry": {
         "type": "Point",
@@ -4129,9 +4679,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.8586,
-        "Long": -74.3118
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.8586,
+        "Longconfirmed": -74.3118
       },
       "geometry": {
         "type": "Point",
@@ -4144,9 +4696,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 29.028000000000002,
-        "Long": -81.0755
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 29.028000000000002,
+        "Longconfirmed": -81.0755
       },
       "geometry": {
         "type": "Point",
@@ -4159,9 +4713,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.9085,
-        "Long": -77.2405
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.9085,
+        "Longconfirmed": -77.2405
       },
       "geometry": {
         "type": "Point",
@@ -4174,9 +4730,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.9931,
-        "Long": -71.0498
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.9931,
+        "Longconfirmed": -71.0498
       },
       "geometry": {
         "type": "Point",
@@ -4189,9 +4747,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.9072,
-        "Long": -77.0369
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.9072,
+        "Longconfirmed": -77.0369
       },
       "geometry": {
         "type": "Point",
@@ -4204,9 +4764,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.229,
-        "Long": -75.3879
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.229,
+        "Longconfirmed": -75.3879
       },
       "geometry": {
         "type": "Point",
@@ -4219,9 +4781,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 37.6017,
-        "Long": -121.7195
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.6017,
+        "Longconfirmed": -121.7195
       },
       "geometry": {
         "type": "Point",
@@ -4234,9 +4798,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 26.1901,
-        "Long": -80.3659
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 26.1901,
+        "Longconfirmed": -80.3659
       },
       "geometry": {
         "type": "Point",
@@ -4249,9 +4815,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 26.663,
-        "Long": -81.9535
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 26.663,
+        "Longconfirmed": -81.9535
       },
       "geometry": {
         "type": "Point",
@@ -4264,9 +4832,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 32.8162,
-        "Long": -111.2845
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 32.8162,
+        "Longconfirmed": -111.2845
       },
       "geometry": {
         "type": "Point",
@@ -4279,9 +4849,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.1489,
-        "Long": -73.983
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.1489,
+        "Longconfirmed": -73.983
       },
       "geometry": {
         "type": "Point",
@@ -4294,9 +4866,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 43.0324,
-        "Long": -73.936
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.0324,
+        "Longconfirmed": -73.936
       },
       "geometry": {
         "type": "Point",
@@ -4309,9 +4883,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 32.7957,
-        "Long": -79.7848
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 32.7957,
+        "Longconfirmed": -79.7848
       },
       "geometry": {
         "type": "Point",
@@ -4324,9 +4900,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 45.7466,
-        "Long": -122.5194
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 45.7466,
+        "Longconfirmed": -122.5194
       },
       "geometry": {
         "type": "Point",
@@ -4339,9 +4917,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 33.8999,
-        "Long": -84.5641
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 33.8999,
+        "Longconfirmed": -84.5641
       },
       "geometry": {
         "type": "Point",
@@ -4354,9 +4934,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.9629,
-        "Long": -112.0953
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.9629,
+        "Longconfirmed": -112.0953
       },
       "geometry": {
         "type": "Point",
@@ -4369,9 +4951,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.9108,
-        "Long": -104.4723
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.9108,
+        "Longconfirmed": -104.4723
       },
       "geometry": {
         "type": "Point",
@@ -4384,9 +4968,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 21.307,
-        "Long": -157.8584
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 21.307,
+        "Longconfirmed": -157.8584
       },
       "geometry": {
         "type": "Point",
@@ -4399,9 +4985,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.3345,
-        "Long": -122.7647
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.3345,
+        "Longconfirmed": -122.7647
       },
       "geometry": {
         "type": "Point",
@@ -4414,9 +5002,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 47.7425,
-        "Long": -123.304
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 47.7425,
+        "Longconfirmed": -123.304
       },
       "geometry": {
         "type": "Point",
@@ -4429,9 +5019,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 34.3672,
-        "Long": -80.5883
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 34.3672,
+        "Longconfirmed": -80.5883
       },
       "geometry": {
         "type": "Point",
@@ -4444,9 +5036,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.6953,
-        "Long": -121.6142
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.6953,
+        "Longconfirmed": -121.6142
       },
       "geometry": {
         "type": "Point",
@@ -4459,9 +5053,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 37.2519,
-        "Long": -119.6963
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.2519,
+        "Longconfirmed": -119.6963
       },
       "geometry": {
         "type": "Point",
@@ -4474,9 +5070,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 47.0676,
-        "Long": -122.1295
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 47.0676,
+        "Longconfirmed": -122.1295
       },
       "geometry": {
         "type": "Point",
@@ -4489,9 +5087,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 36.1593,
-        "Long": -95.941
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 36.1593,
+        "Longconfirmed": -95.941
       },
       "geometry": {
         "type": "Point",
@@ -4504,9 +5104,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.2587,
-        "Long": -104.9389
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.2587,
+        "Longconfirmed": -104.9389
       },
       "geometry": {
         "type": "Point",
@@ -4519,9 +5121,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.8882,
-        "Long": -71.4774
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.8882,
+        "Longconfirmed": -71.4774
       },
       "geometry": {
         "type": "Point",
@@ -4534,9 +5138,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 35.7211,
-        "Long": -79.1781
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 35.7211,
+        "Longconfirmed": -79.1781
       },
       "geometry": {
         "type": "Point",
@@ -4549,9 +5155,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.9078,
-        "Long": -75.3879
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.9078,
+        "Longconfirmed": -75.3879
       },
       "geometry": {
         "type": "Point",
@@ -4564,9 +5172,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.3148,
-        "Long": -96.1951
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.3148,
+        "Longconfirmed": -96.1951
       },
       "geometry": {
         "type": "Point",
@@ -4579,9 +5189,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.0606,
-        "Long": -84.4803
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.0606,
+        "Longconfirmed": -84.4803
       },
       "geometry": {
         "type": "Point",
@@ -4594,9 +5206,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.8362,
-        "Long": -86.1752
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.8362,
+        "Longconfirmed": -86.1752
       },
       "geometry": {
         "type": "Point",
@@ -4609,9 +5223,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.4672,
-        "Long": -71.2874
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.4672,
+        "Longconfirmed": -71.2874
       },
       "geometry": {
         "type": "Point",
@@ -4624,9 +5240,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.6546,
-        "Long": -73.5594
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.6546,
+        "Longconfirmed": -73.5594
       },
       "geometry": {
         "type": "Point",
@@ -4639,9 +5257,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 44.9964,
-        "Long": -93.0616
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 44.9964,
+        "Longconfirmed": -93.0616
       },
       "geometry": {
         "type": "Point",
@@ -4654,9 +5274,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.5608,
-        "Long": -119.6035
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.5608,
+        "Longconfirmed": -119.6035
       },
       "geometry": {
         "type": "Point",
@@ -4669,9 +5291,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.6739,
-        "Long": -75.2479
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.6739,
+        "Longconfirmed": -75.2479
       },
       "geometry": {
         "type": "Point",
@@ -4684,9 +5308,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.7646,
-        "Long": -121.9018
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.7646,
+        "Longconfirmed": -121.9018
       },
       "geometry": {
         "type": "Point",
@@ -4699,9 +5325,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 37.3541,
-        "Long": -121.9552
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.3541,
+        "Longconfirmed": -121.9552
       },
       "geometry": {
         "type": "Point",
@@ -4714,9 +5342,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 36.0796,
-        "Long": -115.094
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 36.0796,
+        "Longconfirmed": -115.094
       },
       "geometry": {
         "type": "Point",
@@ -4729,9 +5359,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 29.5693,
-        "Long": -95.8143
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 29.5693,
+        "Longconfirmed": -95.8143
       },
       "geometry": {
         "type": "Point",
@@ -4744,9 +5376,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 47.1981,
-        "Long": -119.3732
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 47.1981,
+        "Longconfirmed": -119.3732
       },
       "geometry": {
         "type": "Point",
@@ -4759,9 +5393,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 30.769000000000002,
-        "Long": -86.9824
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 30.769000000000002,
+        "Longconfirmed": -86.9824
       },
       "geometry": {
         "type": "Point",
@@ -4774,9 +5410,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 35.9179,
-        "Long": -86.8622
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 35.9179,
+        "Longconfirmed": -86.8622
       },
       "geometry": {
         "type": "Point",
@@ -4789,9 +5427,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.7128,
-        "Long": -74.006
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.7128,
+        "Longconfirmed": -74.006
       },
       "geometry": {
         "type": "Point",
@@ -4804,9 +5444,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.1547,
-        "Long": -77.2405
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.1547,
+        "Longconfirmed": -77.2405
       },
       "geometry": {
         "type": "Point",
@@ -4819,9 +5461,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.3601,
-        "Long": -71.0589
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.3601,
+        "Longconfirmed": -71.0589
       },
       "geometry": {
         "type": "Point",
@@ -4834,9 +5478,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.7392,
-        "Long": -104.9903
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.7392,
+        "Longconfirmed": -104.9903
       },
       "geometry": {
         "type": "Point",
@@ -4849,9 +5495,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.5912,
-        "Long": -106.064
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.5912,
+        "Longconfirmed": -106.064
       },
       "geometry": {
         "type": "Point",
@@ -4864,9 +5512,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.9263,
-        "Long": -74.077
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.9263,
+        "Longconfirmed": -74.077
       },
       "geometry": {
         "type": "Point",
@@ -4879,9 +5529,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 29.7752,
-        "Long": -95.3103
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 29.7752,
+        "Longconfirmed": -95.3103
       },
       "geometry": {
         "type": "Point",
@@ -4894,9 +5546,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 37.7749,
-        "Long": -122.4194
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.7749,
+        "Longconfirmed": -122.4194
       },
       "geometry": {
         "type": "Point",
@@ -4909,9 +5563,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 37.8534,
-        "Long": -121.9018
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.8534,
+        "Longconfirmed": -121.9018
       },
       "geometry": {
         "type": "Point",
@@ -4924,9 +5580,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 33.7879,
-        "Long": -117.8531
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 33.7879,
+        "Longconfirmed": -117.8531
       },
       "geometry": {
         "type": "Point",
@@ -4939,9 +5597,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.1767,
-        "Long": -71.1449
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.1767,
+        "Longconfirmed": -71.1449
       },
       "geometry": {
         "type": "Point",
@@ -4954,9 +5614,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 33.2918,
-        "Long": -112.4291
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 33.2918,
+        "Longconfirmed": -112.4291
       },
       "geometry": {
         "type": "Point",
@@ -4969,9 +5631,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 35.8032,
-        "Long": -78.5661
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 35.8032,
+        "Longconfirmed": -78.5661
       },
       "geometry": {
         "type": "Point",
@@ -4984,9 +5648,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.122,
-        "Long": -73.7949
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.122,
+        "Longconfirmed": -73.7949
       },
       "geometry": {
         "type": "Point",
@@ -4999,9 +5665,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 43.9088,
-        "Long": -71.82600000000001
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.9088,
+        "Longconfirmed": -71.82600000000001
       },
       "geometry": {
         "type": "Point",
@@ -5014,9 +5682,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 27.9904,
-        "Long": -82.3018
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 27.9904,
+        "Longconfirmed": -82.3018
       },
       "geometry": {
         "type": "Point",
@@ -5029,9 +5699,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.0916,
-        "Long": -120.8039
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.0916,
+        "Longconfirmed": -120.8039
       },
       "geometry": {
         "type": "Point",
@@ -5044,9 +5716,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 37.563,
-        "Long": -122.3255
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.563,
+        "Longconfirmed": -122.3255
       },
       "geometry": {
         "type": "Point",
@@ -5059,9 +5733,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.578,
-        "Long": -122.9888
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.578,
+        "Longconfirmed": -122.9888
       },
       "geometry": {
         "type": "Point",
@@ -5074,9 +5750,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 45.775,
-        "Long": -118.7606
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 45.775,
+        "Longconfirmed": -118.7606
       },
       "geometry": {
         "type": "Point",
@@ -5089,9 +5767,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 33.8034,
-        "Long": -84.3963
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 33.8034,
+        "Longconfirmed": -84.3963
       },
       "geometry": {
         "type": "Point",
@@ -5104,9 +5784,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 45.547,
-        "Long": -123.1386
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 45.547,
+        "Longconfirmed": -123.1386
       },
       "geometry": {
         "type": "Point",
@@ -5119,9 +5801,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 48.033,
-        "Long": -121.8339
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 48.033,
+        "Longconfirmed": -121.8339
       },
       "geometry": {
         "type": "Point",
@@ -5134,9 +5818,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.745,
-        "Long": -123.8695
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.745,
+        "Longconfirmed": -123.8695
       },
       "geometry": {
         "type": "Point",
@@ -5149,9 +5835,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.4747,
-        "Long": -121.3542
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.4747,
+        "Longconfirmed": -121.3542
       },
       "geometry": {
         "type": "Point",
@@ -5164,9 +5852,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 32.7157,
-        "Long": -117.1611
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 32.7157,
+        "Longconfirmed": -117.1611
       },
       "geometry": {
         "type": "Point",
@@ -5179,9 +5869,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 36.5761,
-        "Long": -120.9876
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 36.5761,
+        "Longconfirmed": -120.9876
       },
       "geometry": {
         "type": "Point",
@@ -5194,9 +5886,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 34.0522,
-        "Long": -118.2437
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 34.0522,
+        "Longconfirmed": -118.2437
       },
       "geometry": {
         "type": "Point",
@@ -5209,9 +5903,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 47.6062,
-        "Long": -122.3321
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 47.6062,
+        "Longconfirmed": -122.3321
       },
       "geometry": {
         "type": "Point",
@@ -5224,9 +5920,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.7377,
-        "Long": -87.6976
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.7377,
+        "Longconfirmed": -87.6976
       },
       "geometry": {
         "type": "Point",
@@ -5239,9 +5937,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 48.4242,
-        "Long": -121.7114
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 48.4242,
+        "Longconfirmed": -121.7114
       },
       "geometry": {
         "type": "Point",
@@ -5254,9 +5954,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 46.8646,
-        "Long": -122.7696
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 46.8646,
+        "Longconfirmed": -122.7696
       },
       "geometry": {
         "type": "Point",
@@ -5269,9 +5971,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 48.1976,
-        "Long": -122.5795
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 48.1976,
+        "Longconfirmed": -122.5795
       },
       "geometry": {
         "type": "Point",
@@ -5284,9 +5988,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 48.8787,
-        "Long": -121.9719
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 48.8787,
+        "Longconfirmed": -121.9719
       },
       "geometry": {
         "type": "Point",
@@ -5299,9 +6005,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.0834,
-        "Long": -122.7633
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.0834,
+        "Longconfirmed": -122.7633
       },
       "geometry": {
         "type": "Point",
@@ -5314,9 +6022,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 38.196,
-        "Long": -120.6805
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 38.196,
+        "Longconfirmed": -120.6805
       },
       "geometry": {
         "type": "Point",
@@ -5329,9 +6039,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 37.5091,
-        "Long": -120.9876
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.5091,
+        "Longconfirmed": -120.9876
       },
       "geometry": {
         "type": "Point",
@@ -5344,9 +6056,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 36.6066,
-        "Long": -120.189
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 36.6066,
+        "Longconfirmed": -120.189
       },
       "geometry": {
         "type": "Point",
@@ -5359,9 +6073,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.632,
-        "Long": -70.7829
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.632,
+        "Longconfirmed": -70.7829
       },
       "geometry": {
         "type": "Point",
@@ -5374,9 +6090,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 30.7917,
-        "Long": -82.0843
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 30.7917,
+        "Longconfirmed": -82.0843
       },
       "geometry": {
         "type": "Point",
@@ -5389,9 +6107,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 26.07,
-        "Long": -81.4279
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 26.07,
+        "Longconfirmed": -81.4279
       },
       "geometry": {
         "type": "Point",
@@ -5404,9 +6124,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 27.8764,
-        "Long": -82.7779
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 27.8764,
+        "Longconfirmed": -82.7779
       },
       "geometry": {
         "type": "Point",
@@ -5419,9 +6141,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 29.7938,
-        "Long": -82.4944
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 29.7938,
+        "Longconfirmed": -82.4944
       },
       "geometry": {
         "type": "Point",
@@ -5434,9 +6158,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 30.5927,
-        "Long": -81.8224
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 30.5927,
+        "Longconfirmed": -81.8224
       },
       "geometry": {
         "type": "Point",
@@ -5449,9 +6175,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 28.3232,
-        "Long": -82.4319
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 28.3232,
+        "Longconfirmed": -82.4319
       },
       "geometry": {
         "type": "Point",
@@ -5464,9 +6192,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 32.7767,
-        "Long": -96.79700000000001
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 32.7767,
+        "Longconfirmed": -96.79700000000001
       },
       "geometry": {
         "type": "Point",
@@ -5479,9 +6209,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 32.7732,
-        "Long": -97.3517
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 32.7732,
+        "Longconfirmed": -97.3517
       },
       "geometry": {
         "type": "Point",
@@ -5494,9 +6226,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 30.3883,
-        "Long": -95.6963
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 30.3883,
+        "Longconfirmed": -95.6963
       },
       "geometry": {
         "type": "Point",
@@ -5509,9 +6243,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.5726,
-        "Long": -74.4927
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.5726,
+        "Longconfirmed": -74.4927
       },
       "geometry": {
         "type": "Point",
@@ -5524,9 +6260,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.58,
-        "Long": -105.2663
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.58,
+        "Longconfirmed": -105.2663
       },
       "geometry": {
         "type": "Point",
@@ -5539,9 +6277,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 45.5146,
-        "Long": -122.5863
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 45.5146,
+        "Longconfirmed": -122.5863
       },
       "geometry": {
         "type": "Point",
@@ -5554,9 +6294,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 44.9267,
-        "Long": -123.4919
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 44.9267,
+        "Longconfirmed": -123.4919
       },
       "geometry": {
         "type": "Point",
@@ -5569,9 +6311,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 43.8325,
-        "Long": -121.2617
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.8325,
+        "Longconfirmed": -121.2617
       },
       "geometry": {
         "type": "Point",
@@ -5584,9 +6328,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.3334,
-        "Long": -88.2668
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.3334,
+        "Longconfirmed": -88.2668
       },
       "geometry": {
         "type": "Point",
@@ -5599,9 +6345,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.3689,
-        "Long": -87.8272
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.3689,
+        "Longconfirmed": -87.8272
       },
       "geometry": {
         "type": "Point",
@@ -5614,9 +6362,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.4108,
-        "Long": -75.2479
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.4108,
+        "Longconfirmed": -75.2479
       },
       "geometry": {
         "type": "Point",
@@ -5629,9 +6379,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 37.7772,
-        "Long": -77.5161
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.7772,
+        "Longconfirmed": -77.5161
       },
       "geometry": {
         "type": "Point",
@@ -5644,9 +6396,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 34.7253,
-        "Long": -80.6771
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 34.7253,
+        "Longconfirmed": -80.6771
       },
       "geometry": {
         "type": "Point",
@@ -5659,9 +6413,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 36.4933,
-        "Long": -82.3452
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 36.4933,
+        "Longconfirmed": -82.3452
       },
       "geometry": {
         "type": "Point",
@@ -5674,9 +6430,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.4638,
-        "Long": -86.1345
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.4638,
+        "Longconfirmed": -86.1345
       },
       "geometry": {
         "type": "Point",
@@ -5689,9 +6447,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.4483,
-        "Long": -86.1345
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.4483,
+        "Longconfirmed": -86.1345
       },
       "geometry": {
         "type": "Point",
@@ -5704,9 +6464,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.6228,
-        "Long": -86.3377
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.6228,
+        "Longconfirmed": -86.3377
       },
       "geometry": {
         "type": "Point",
@@ -5719,9 +6481,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.6712,
-        "Long": -97.8722
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.6712,
+        "Longconfirmed": -97.8722
       },
       "geometry": {
         "type": "Point",
@@ -5734,9 +6498,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.8685,
-        "Long": -81.2519
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.8685,
+        "Longconfirmed": -81.2519
       },
       "geometry": {
         "type": "Point",
@@ -5749,9 +6515,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 45.3293,
-        "Long": -93.2197
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 45.3293,
+        "Longconfirmed": -93.2197
       },
       "geometry": {
         "type": "Point",
@@ -5764,9 +6532,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 43.9952,
-        "Long": -92.3814
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.9952,
+        "Longconfirmed": -92.3814
       },
       "geometry": {
         "type": "Point",
@@ -5779,9 +6549,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 40.8298,
-        "Long": -110.9984
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 40.8298,
+        "Longconfirmed": -110.9984
       },
       "geometry": {
         "type": "Point",
@@ -5794,9 +6566,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.256,
-        "Long": -73.3709
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.256,
+        "Longconfirmed": -73.3709
       },
       "geometry": {
         "type": "Point",
@@ -5809,9 +6583,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.7866,
-        "Long": -73.2765
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.7866,
+        "Longconfirmed": -73.2765
       },
       "geometry": {
         "type": "Point",
@@ -5824,9 +6600,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 29.9511,
-        "Long": -90.0715
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 29.9511,
+        "Longconfirmed": -90.0715
       },
       "geometry": {
         "type": "Point",
@@ -5839,9 +6617,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 43.8901,
-        "Long": -102.2548
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.8901,
+        "Longconfirmed": -102.2548
       },
       "geometry": {
         "type": "Point",
@@ -5854,9 +6634,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 44.4797,
-        "Long": -98.2213
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 44.4797,
+        "Longconfirmed": -98.2213
       },
       "geometry": {
         "type": "Point",
@@ -5869,9 +6651,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 43.0985,
-        "Long": -98.3965
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.0985,
+        "Longconfirmed": -98.3965
       },
       "geometry": {
         "type": "Point",
@@ -5884,9 +6668,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 43.7242,
-        "Long": -98.2213
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.7242,
+        "Longconfirmed": -98.2213
       },
       "geometry": {
         "type": "Point",
@@ -5899,9 +6685,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 43.6632,
-        "Long": -96.8351
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 43.6632,
+        "Longconfirmed": -96.8351
       },
       "geometry": {
         "type": "Point",
@@ -5914,9 +6702,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.9815,
-        "Long": -97.8722
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.9815,
+        "Longconfirmed": -97.8722
       },
       "geometry": {
         "type": "Point",
@@ -5929,9 +6719,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 33.8837,
-        "Long": -106.7235
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 33.8837,
+        "Longconfirmed": -106.7235
       },
       "geometry": {
         "type": "Point",
@@ -5944,9 +6736,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 35.0178,
-        "Long": -106.6291
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 35.0178,
+        "Longconfirmed": -106.6291
       },
       "geometry": {
         "type": "Point",
@@ -5959,9 +6753,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.5922,
-        "Long": -83.3362
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.5922,
+        "Longconfirmed": -83.3362
       },
       "geometry": {
         "type": "Point",
@@ -5974,9 +6770,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.2791,
-        "Long": -83.3362
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.2791,
+        "Longconfirmed": -83.3362
       },
       "geometry": {
         "type": "Point",
@@ -5989,9 +6787,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 39.5393,
-        "Long": -75.6674
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 39.5393,
+        "Longconfirmed": -75.6674
       },
       "geometry": {
         "type": "Point",
@@ -6004,9 +6804,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 3.0,
-        "Lat": 22.0,
-        "Long": -80.0
+        "3/12/20confirmed": 3,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 22.0,
+        "Longconfirmed": -80.0
       },
       "geometry": {
         "type": "Point",
@@ -6019,9 +6821,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": 5.0,
-        "Long": -58.75
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 1,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 5.0,
+        "Longconfirmed": -58.75
       },
       "geometry": {
         "type": "Point",
@@ -6034,9 +6838,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": -35.4735,
-        "Long": 149.0124
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -35.4735,
+        "Longconfirmed": 149.0124
       },
       "geometry": {
         "type": "Point",
@@ -6049,9 +6855,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 456.0,
-        "Lat": 55.3781,
-        "Long": -3.4360000000000004
+        "3/12/20confirmed": 456,
+        "3/12/20dead": 8,
+        "3/12/20recovered": 18,
+        "Latconfirmed": 55.3781,
+        "Longconfirmed": -3.4360000000000004
       },
       "geometry": {
         "type": "Point",
@@ -6064,9 +6872,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 48.0196,
-        "Long": 66.9237
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 48.0196,
+        "Longconfirmed": 66.9237
       },
       "geometry": {
         "type": "Point",
@@ -6079,9 +6889,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": -17.6797,
-        "Long": 149.4068
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -17.6797,
+        "Longconfirmed": 149.4068
       },
       "geometry": {
         "type": "Point",
@@ -6094,9 +6906,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 53.7609,
-        "Long": -98.8139
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 53.7609,
+        "Longconfirmed": -98.8139
       },
       "geometry": {
         "type": "Point",
@@ -6109,9 +6923,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 52.9399,
-        "Long": -106.4509
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 52.9399,
+        "Longconfirmed": -106.4509
       },
       "geometry": {
         "type": "Point",
@@ -6124,9 +6940,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 9.145,
-        "Long": 40.4897
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 9.145,
+        "Longconfirmed": 40.4897
       },
       "geometry": {
         "type": "Point",
@@ -6139,9 +6957,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 12.8628,
-        "Long": 30.2176
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 12.8628,
+        "Longconfirmed": 30.2176
       },
       "geometry": {
         "type": "Point",
@@ -6154,9 +6974,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 9.9456,
-        "Long": -9.6966
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 9.9456,
+        "Longconfirmed": -9.6966
       },
       "geometry": {
         "type": "Point",
@@ -6169,9 +6991,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 12.5211,
-        "Long": -69.9683
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 12.5211,
+        "Longconfirmed": -69.9683
       },
       "geometry": {
         "type": "Point",
@@ -6184,9 +7008,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 37.6489,
-        "Long": -122.6655
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 37.6489,
+        "Longconfirmed": -122.6655
       },
       "geometry": {
         "type": "Point",
@@ -6199,9 +7025,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": -0.0236,
-        "Long": 37.9062
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -0.0236,
+        "Longconfirmed": 37.9062
       },
       "geometry": {
         "type": "Point",
@@ -6214,9 +7042,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 17.0608,
-        "Long": -61.7964
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 17.0608,
+        "Longconfirmed": -61.7964
       },
       "geometry": {
         "type": "Point",
@@ -6229,9 +7059,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 32.3182,
-        "Long": -86.9023
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 32.3182,
+        "Longconfirmed": -86.9023
       },
       "geometry": {
         "type": "Point",
@@ -6244,9 +7076,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": -32.5228,
-        "Long": -55.7658
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -32.5228,
+        "Longconfirmed": -55.7658
       },
       "geometry": {
         "type": "Point",
@@ -6259,9 +7093,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 7.9465,
-        "Long": -1.0232
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 7.9465,
+        "Longconfirmed": -1.0232
       },
       "geometry": {
         "type": "Point",
@@ -6274,9 +7110,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 18.2208,
-        "Long": -66.5901
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 18.2208,
+        "Longconfirmed": -66.5901
       },
       "geometry": {
         "type": "Point",
@@ -6289,9 +7127,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 49.19,
-        "Long": -2.11
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 49.19,
+        "Longconfirmed": -2.11
       },
       "geometry": {
         "type": "Point",
@@ -6304,9 +7144,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": -22.9576,
-        "Long": 18.4904
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -22.9576,
+        "Longconfirmed": 18.4904
       },
       "geometry": {
         "type": "Point",
@@ -6319,9 +7161,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": -4.6796,
-        "Long": 55.492
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -4.6796,
+        "Longconfirmed": 55.492
       },
       "geometry": {
         "type": "Point",
@@ -6334,9 +7178,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 10.6918,
-        "Long": -61.2225
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 10.6918,
+        "Longconfirmed": -61.2225
       },
       "geometry": {
         "type": "Point",
@@ -6349,9 +7195,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 6.4238,
-        "Long": -66.5897
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 6.4238,
+        "Longconfirmed": -66.5897
       },
       "geometry": {
         "type": "Point",
@@ -6364,9 +7212,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": -26.5225,
-        "Long": 31.4659
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -26.5225,
+        "Longconfirmed": 31.4659
       },
       "geometry": {
         "type": "Point",
@@ -6379,9 +7229,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": -0.8037,
-        "Long": 11.6094
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -0.8037,
+        "Longconfirmed": 11.6094
       },
       "geometry": {
         "type": "Point",
@@ -6394,9 +7246,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 15.7835,
-        "Long": -90.2308
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 15.7835,
+        "Longconfirmed": -90.2308
       },
       "geometry": {
         "type": "Point",
@@ -6409,9 +7263,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 49.45,
-        "Long": -2.58
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 49.45,
+        "Longconfirmed": -2.58
       },
       "geometry": {
         "type": "Point",
@@ -6424,9 +7280,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 21.0079,
-        "Long": 10.9408
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 21.0079,
+        "Longconfirmed": 10.9408
       },
       "geometry": {
         "type": "Point",
@@ -6439,9 +7297,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": -1.9403,
-        "Long": 29.8739
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -1.9403,
+        "Longconfirmed": 29.8739
       },
       "geometry": {
         "type": "Point",
@@ -6454,9 +7314,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 13.9094,
-        "Long": -60.9789
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 13.9094,
+        "Longconfirmed": -60.9789
       },
       "geometry": {
         "type": "Point",
@@ -6469,9 +7331,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 12.9843,
-        "Long": -61.2872
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 12.9843,
+        "Longconfirmed": -61.2872
       },
       "geometry": {
         "type": "Point",
@@ -6484,9 +7348,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 3.9193,
-        "Long": -56.0278
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 3.9193,
+        "Longconfirmed": -56.0278
       },
       "geometry": {
         "type": "Point",
@@ -6499,9 +7365,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 5.0,
-        "Lat": 3.9339,
-        "Long": -53.1258
+        "3/12/20confirmed": 5,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 3.9339,
+        "Longconfirmed": -53.1258
       },
       "geometry": {
         "type": "Point",
@@ -6514,9 +7382,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 13.4443,
-        "Long": 144.7937
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 13.4443,
+        "Longconfirmed": 144.7937
       },
       "geometry": {
         "type": "Point",
@@ -6529,9 +7399,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.6026,
-        "Long": 20.903000000000002
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.6026,
+        "Longconfirmed": 20.903000000000002
       },
       "geometry": {
         "type": "Point",
@@ -6544,9 +7416,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 53.1355,
-        "Long": -57.6604
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 53.1355,
+        "Longconfirmed": -57.6604
       },
       "geometry": {
         "type": "Point",
@@ -6559,9 +7433,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 46.5107,
-        "Long": -63.4168
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 46.5107,
+        "Longconfirmed": -63.4168
       },
       "geometry": {
         "type": "Point",
@@ -6574,9 +7450,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 6.6111,
-        "Long": 20.9394
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 6.6111,
+        "Longconfirmed": 20.9394
       },
       "geometry": {
         "type": "Point",
@@ -6589,9 +7467,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": -4.0383,
-        "Long": 21.7587
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -4.0383,
+        "Longconfirmed": 21.7587
       },
       "geometry": {
         "type": "Point",
@@ -6604,9 +7484,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 1.5,
-        "Long": 10.0
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 1.5,
+        "Longconfirmed": 10.0
       },
       "geometry": {
         "type": "Point",
@@ -6619,9 +7501,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": -12.8275,
-        "Long": 45.1662
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -12.8275,
+        "Longconfirmed": 45.1662
       },
       "geometry": {
         "type": "Point",
@@ -6634,9 +7518,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 41.3775,
-        "Long": 64.5853
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 41.3775,
+        "Longconfirmed": 64.5853
       },
       "geometry": {
         "type": "Point",
@@ -6649,9 +7535,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 503.0,
-        "Lat": 52.1326,
-        "Long": 5.2913
+        "3/12/20confirmed": 503,
+        "3/12/20dead": 5,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 52.1326,
+        "Longconfirmed": 5.2913
       },
       "geometry": {
         "type": "Point",
@@ -6664,9 +7552,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 44.681999999999995,
-        "Long": -63.7443
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 44.681999999999995,
+        "Longconfirmed": -63.7443
       },
       "geometry": {
         "type": "Point",
@@ -6679,9 +7569,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 16.25,
-        "Long": -61.5833
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 16.25,
+        "Longconfirmed": -61.5833
       },
       "geometry": {
         "type": "Point",
@@ -6694,9 +7586,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 9.3077,
-        "Long": 2.3158
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 9.3077,
+        "Longconfirmed": 2.3158
       },
       "geometry": {
         "type": "Point",
@@ -6709,9 +7603,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 71.7069,
-        "Long": -42.6043
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 71.7069,
+        "Longconfirmed": -42.6043
       },
       "geometry": {
         "type": "Point",
@@ -6724,9 +7620,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 6.4281,
-        "Long": -9.4295
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 6.4281,
+        "Longconfirmed": -9.4295
       },
       "geometry": {
         "type": "Point",
@@ -6739,9 +7637,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 12.1696,
-        "Long": -68.99
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 12.1696,
+        "Longconfirmed": -68.99
       },
       "geometry": {
         "type": "Point",
@@ -6754,9 +7654,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": -1.44,
-        "Long": 15.556
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -1.44,
+        "Longconfirmed": 15.556
       },
       "geometry": {
         "type": "Point",
@@ -6769,9 +7671,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 5.1521,
-        "Long": 46.1996
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 5.1521,
+        "Longconfirmed": 46.1996
       },
       "geometry": {
         "type": "Point",
@@ -6784,9 +7688,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": -6.369,
-        "Long": 34.8888
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -6.369,
+        "Longconfirmed": 34.8888
       },
       "geometry": {
         "type": "Point",
@@ -6799,9 +7705,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 24.25,
-        "Long": -76.0
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 24.25,
+        "Longconfirmed": -76.0
       },
       "geometry": {
         "type": "Point",
@@ -6814,9 +7722,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 18.3358,
-        "Long": -64.8963
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 18.3358,
+        "Longconfirmed": -64.8963
       },
       "geometry": {
         "type": "Point",
@@ -6829,9 +7739,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 19.3133,
-        "Long": -81.2546
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 19.3133,
+        "Longconfirmed": -81.2546
       },
       "geometry": {
         "type": "Point",
@@ -6844,9 +7756,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 1.0,
-        "Lat": -21.1351,
-        "Long": 55.2471
+        "3/12/20confirmed": 1,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": -21.1351,
+        "Longconfirmed": 55.2471
       },
       "geometry": {
         "type": "Point",
@@ -6859,9 +7773,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 13.1939,
-        "Long": -59.5432
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 13.1939,
+        "Longconfirmed": -59.5432
       },
       "geometry": {
         "type": "Point",
@@ -6874,9 +7790,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 42.5,
-        "Long": 19.3
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 42.5,
+        "Longconfirmed": 19.3
       },
       "geometry": {
         "type": "Point",
@@ -6889,9 +7807,11 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "3/12/20": 0.0,
-        "Lat": 13.4667,
-        "Long": -16.6
+        "3/12/20confirmed": 0,
+        "3/12/20dead": 0,
+        "3/12/20recovered": 0,
+        "Latconfirmed": 13.4667,
+        "Longconfirmed": -16.6
       },
       "geometry": {
         "type": "Point",

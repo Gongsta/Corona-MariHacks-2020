@@ -35,7 +35,7 @@
     <div id="map"></div>
 
     <div class="choose-date">
-        <input class="cal" type="date" value="2020-03-01" min="2020-01-22" max="2020-03-08" id="exactDate"
+        <input class="cal" type="date" value="2020-03-17" min="2020-01-22" max="2020-04-08" id="exactDate"
             onchange="updateTime(this.value)">
         <!-- <input class="slider" type="range" min="0" max="7" value="0" id="nbDaysFuture" onchange="updateRangeValue(this.value)"> -->
     </div>
@@ -54,7 +54,27 @@
         <div id="nb-cases" class="panel nb-days" onclick="animatePanel2()">
             <h2>Number of confirmed cases:</h2>
             <h1 style="width: 100%; margin: auto; margin-top: 30px; font-size: 50px;"
-                id="numberOfInfected">86013</h1>
+                id="numberOfInfected"></h1>
+        </div>
+        <div id="nb-recovered" class="panel nb-days" onclick="animatePanel2()">
+            <h2>Number of recoveries:</h2>
+            <h1 style="width: 100%; margin: auto; margin-top: 30px; font-size: 50px;"
+                id="numberOfRecovered"></h1>
+        </div>
+        <div id="nb-deaths" class="panel nb-days" onclick="animatePanel2()">
+            <h2>Number of deaths:</h2>
+            <h1 style="width: 100%; margin: auto; margin-top: 30px; font-size: 50px;"
+                id="numberOfDead"></h1>
+        </div>
+        <div id="recovery-rate" class="panel nb-days" onclick="animatePanel2()">
+            <h2>Recovery Rate:</h2>
+            <h1 style="width: 100%; margin: auto; margin-top: 30px; font-size: 50px;"
+                id="recoveryRate"></h1>
+        </div>
+        <div id="death-rate" class="panel nb-days" onclick="animatePanel2()">
+            <h2>Death Rate:</h2>
+            <h1 style="width: 100%; margin: auto; margin-top: 30px; font-size: 50px;"
+                id="deathRate"></h1>
         </div>
 
         <!-- <div class="panel nb-cases">
@@ -153,7 +173,7 @@
     </script> -->
 
     <script>
-        var currentTime = '2/29/20'
+        var currentTime = '3/17/20'
         var listOfInfected = [];
         var listOfLatCoordinates = [];
         var listOfLongCoordinates = [];
@@ -312,20 +332,20 @@
             var selectDate = document.getElementById('exactDate');
 
 
-            script.src = 'https://storage.cloud.google.com/corona-marihacks2020/dataset.geojsonp';
+            script.src = 'https://storage.cloud.google.com/corona-marihacks2020/03-17-2020.geojsonp';
 
             document.getElementsByTagName('head')[0].appendChild(script);
 
 
             map.data.setStyle(function (feature) {
-                var infected = feature.getProperty('2/29/20');
+                var infected = feature.getProperty(currentTime + 'confirmed');
 
                 listOfInfected.push(infected)
 
-                var latCoordinates = feature.getProperty("Lat");
+                var latCoordinates = feature.getProperty("Latconfirmed");
 
                 listOfLatCoordinates.push(latCoordinates);
-                var longCoordinates = feature.getProperty("Long");
+                var longCoordinates = feature.getProperty("Longconfirmed");
                 listOfLongCoordinates.push(longCoordinates);
 
 
@@ -337,7 +357,19 @@
             });
 
             map.data.addListener('mouseover', function(event) {
-                document.getElementById('numberOfInfected').textContent = event.feature.getProperty(currentTime);
+                document.getElementById('numberOfInfected').textContent = event.feature.getProperty(currentTime + 'confirmed');
+                document.getElementById('numberOfDead').textContent = event.feature.getProperty(currentTime + 'dead');
+                document.getElementById('numberOfRecovered').textContent = event.feature.getProperty(currentTime + 'recovered');
+                document.getElementById('recoveryRate').textContent = ((event.feature.getProperty(currentTime + 'recovered')/ event.feature.getProperty(currentTime + 'confirmed'))*100).toFixed(2) || 0;
+                document.getElementById('deathRate').textContent = ((event.feature.getProperty(currentTime + 'dead')/event.feature.getProperty(currentTime + 'confirmed')) * 100).toFixed(2) || 0;
+
+                // document.getElementById('recoveryRate').textContent = document.getElementById('recoveryRate').textContent || 0
+                // document.getElementById('deathRate').textContent = document.getElementById('deathRate').textContent || 0
+                document.getElementById('recoveryRate').textContent = document.getElementById('recoveryRate').textContent + '%'
+                document.getElementById('deathRate').textContent = document.getElementById('deathRate').textContent + '%'
+
+
+
 
                 var recommendations = [
                 "There are very few cases in your area. Please use caution and good sanitary practices, but please, do not panic! You can go about your daily business; don't worry, public transit is safe.",
@@ -366,7 +398,7 @@
                 }
             }
 
-                updateTips(event.feature.getProperty(currentTime));
+                updateTips(event.feature.getProperty(currentTime + 'confirmed'));
 
 
 
@@ -388,7 +420,7 @@
 
             return {
                 path: google.maps.SymbolPath.CIRCLE,
-                fillColor: 'red',
+                fillColor: 'blue',
                 fillOpacity: 0.5,
                 scale: Math.pow(infected_circle, 1 / 2),
                 strokeColor: 'white',
@@ -425,14 +457,14 @@
             document.getElementsByTagName('head')[0].appendChild(script);
 
             map.data.setStyle(function (feature) {
-                var infected = feature.getProperty(String(slashed_time));
+                var infected = feature.getProperty(String(slashed_time) + 'confirmed');
 
                 listOfInfected.push(infected);
 
-                var latCoordinates = feature.getProperty("Lat");
+                var latCoordinates = feature.getProperty("Latconfirmed");
 
                 listOfLatCoordinates.push(latCoordinates);
-                var longCoordinates = feature.getProperty("Long");
+                var longCoordinates = feature.getProperty("Longconfirmed");
                 listOfLongCoordinates.push(longCoordinates);
 
                 return {
@@ -546,77 +578,77 @@
             upperLonBound = viewBounds["Ua"]["j"];
 
             
-            //Update Safety Tips
-            var recommendations = [
-                "There are very few cases in your area. Please use caution and good sanitary practices, but please, do not panic! You can go about your daily business; don't worry, public transit is safe.",
+            // //Update Safety Tips
+            // var recommendations = [
+            //     "There are very few cases in your area. Please use caution and good sanitary practices, but please, do not panic! You can go about your daily business; don't worry, public transit is safe.",
 
-                "The number of cases in your area is growing. There is no need to panic, but please respect the sanitary guidelines provided by your local authorities. If you happen to have symptoms, please avoid contact with other people, and consult a doctor immediately.",
+            //     "The number of cases in your area is growing. There is no need to panic, but please respect the sanitary guidelines provided by your local authorities. If you happen to have symptoms, please avoid contact with other people, and consult a doctor immediately.",
 
-                "The number of cases in your area is very high. In order to contain the spread of the virus and help local authorities, please stay calm and avoid irrational behaviour."
-            ]
+            //     "The number of cases in your area is very high. In order to contain the spread of the virus and help local authorities, please stay calm and avoid irrational behaviour."
+            // ]
 
-            var riskLevel = [
-                "Risk level is LOW",
-                "Risk level is MANAGEABLE",
-                "Risk level is HIGH"
-            ]
+            // var riskLevel = [
+            //     "Risk level is LOW",
+            //     "Risk level is MANAGEABLE",
+            //     "Risk level is HIGH"
+            // ]
 
-            function updateTips(infected) {
-                if (infected <= 100) {
-                    document.getElementById('safety-tips').innerHTML = recommendations[0]
-                    document.getElementById('risk-level').innerHTML = riskLevel[0]
-                } else if (infected > 100 && infected <= 1000) {
-                    document.getElementById('safety-tips').innerHTML = recommendations[1]
-                    document.getElementById('risk-level').innerHTML = riskLevel[1]
-                } else {
-                    document.getElementById('safety-tips').innerHTML = recommendations[2]
-                    document.getElementById('risk-level').innerHTML = riskLevel[2]
-                }
-            }
+            // function updateTips(infected) {
+            //     if (infected <= 100) {
+            //         document.getElementById('safety-tips').innerHTML = recommendations[0]
+            //         document.getElementById('risk-level').innerHTML = riskLevel[0]
+            //     } else if (infected > 100 && infected <= 1000) {
+            //         document.getElementById('safety-tips').innerHTML = recommendations[1]
+            //         document.getElementById('risk-level').innerHTML = riskLevel[1]
+            //     } else {
+            //         document.getElementById('safety-tips').innerHTML = recommendations[2]
+            //         document.getElementById('risk-level').innerHTML = riskLevel[2]
+            //     }
+            // }
             
 
 
             
-            var changed = false;
-            for (const i in listOfLatCoordinates) {
+            // var changed = false;
+            // for (const i in listOfLatCoordinates) {
 
-                if (listOfLatCoordinates[i] > lowerLatBound && listOfLatCoordinates[i] < upperLatBound) {
-
-
-                    if (listOfLongCoordinates[i] > lowerLonBound && listOfLongCoordinates[i] < upperLonBound) {
+            //     if (listOfLatCoordinates[i] > lowerLatBound && listOfLatCoordinates[i] < upperLatBound) {
 
 
-                        index = i;
+            //         if (listOfLongCoordinates[i] > lowerLonBound && listOfLongCoordinates[i] < upperLonBound) {
 
 
-                        document.getElementById('numberOfInfected').innerHTML = listOfInfected[i];
-                        updateTips(listOfInfected[i]);
+            //             index = i;
 
-                        changed=true
 
-                        if (listOfInfected[i] == 0) {
+            //             document.getElementById('numberOfInfected').innerHTML = listOfInfected[i];
+            //             updateTips(listOfInfected[i]);
+
+            //             changed=true
+
+            //             if (listOfInfected[i] == 0) {
                             
-                            document.getElementById('forecast-day').innerHTML = 10 + " days";
+            //                 document.getElementById('forecast-day').innerHTML = 10 + " days";
 
                             
 
-                        } else {
+            //             } else {
 
-                            document.getElementById('forecast-day').innerHTML = "Virus is in the region.";
+            //                 document.getElementById('forecast-day').innerHTML = "Virus is in the region.";
 
-                        }
+            //             }
 
-                    }
+            //         }
 
-                }
-            }
+            //     }
+            // }
 
-            if (!changed) {
-                document.getElementById('numberOfInfected').innerHTML = 0;
-                document.getElementById('forecast-day').innerHTML = 10 + " days";
-            }
+            // if (!changed) {
+            //     document.getElementById('numberOfInfected').innerHTML = 0;
+            //     document.getElementById('forecast-day').innerHTML = 10 + " days";
+            // }
 
-            google.maps.event.trigger(map, 'resize');
+            // google.maps.event.trigger(map, 'resize');
 
         }
     </script>

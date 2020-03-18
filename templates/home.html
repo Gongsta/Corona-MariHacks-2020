@@ -5,7 +5,7 @@
 </header>
 
 <head>
-    <title>nopanic.io</title>
+    <title>No to COVID-19</title>
     <link rel="icon" type="image/png" href="/img/favicon.png">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}">
 
@@ -44,7 +44,7 @@
 
         <div class="sidebar-header">
             <p>Help contain COVID19 the smart way</p>
-            <h1>nopanic.io</h1>
+            <h1>Let's say No to COVID-19</h1>
         </div>
 
         <div class="sidebar-search">
@@ -91,9 +91,9 @@
     </div>
 
     <div id="open-tips" class="panel open-tips">
-        <h1>Safety recommendations: (static demo)</h1>
-        <h3>Risk level is HIGH</h3>
-        <p>The number of COVID19 cases in your area is growing. However, there is no need to panic.</p>
+        <h1>Safety recommendations: </h1>
+        <h3 id = 'risk-level2'>Risk level is HIGH</h3>
+        <p id = safety-tips2>The number of COVID19 cases in your area is growing. However, there is no need to panic.</p>
         <div class="x-div" onclick="closePanel()">
             <h1>x</h1> 
         </div>
@@ -389,12 +389,18 @@
                 if (infected <= 100) {
                     document.getElementById('safety-tips').innerHTML = recommendations[0]
                     document.getElementById('risk-level').innerHTML = riskLevel[0]
+                    document.getElementById('safety-tips2').innerHTML = recommendations[0]
+                    document.getElementById('risk-level2').innerHTML = riskLevel[0]
                 } else if (infected > 100 && infected <= 1000) {
                     document.getElementById('safety-tips').innerHTML = recommendations[1]
                     document.getElementById('risk-level').innerHTML = riskLevel[1]
+                    document.getElementById('safety-tips2').innerHTML = recommendations[1]
+                    document.getElementById('risk-level2').innerHTML = riskLevel[1]
                 } else {
                     document.getElementById('safety-tips').innerHTML = recommendations[2]
                     document.getElementById('risk-level').innerHTML = riskLevel[2]
+                    document.getElementById('safety-tips2').innerHTML = recommendations[2]
+                    document.getElementById('risk-level2').innerHTML = riskLevel[2]
                 }
             }
 

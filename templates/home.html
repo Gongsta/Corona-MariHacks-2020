@@ -57,10 +57,10 @@
                 id="numberOfInfected">86013</h1>
         </div>
 
-        <div class="panel nb-cases">
+        <!-- <div class="panel nb-cases">
             <h2>Number of days to first case:</h2>
             <h1 style="width: 100%; margin: auto; margin-top: 30px; text-align: center; font-size: 50px;"><h1 id="forecast-day">Virus is spreading</h1>
-        </div>
+        </div> -->
 
         <div class="panel tips" id="panel" onclick="animatePanel()">
             <h2>Safety recommendations:</h2>
@@ -153,6 +153,7 @@
     </script> -->
 
     <script>
+        var currentTime = '2/29/20'
         var listOfInfected = [];
         var listOfLatCoordinates = [];
         var listOfLongCoordinates = [];
@@ -306,22 +307,9 @@
                 ]
             });
 
-            // Create a <script> tag and set the USGS URL as the source.
             var script = document.createElement('script');
 
             var selectDate = document.getElementById('exactDate');
-
-
-            // map.data.addListener('mouseover', mouseInToRegion);
-            // map.data.addListener('mouseout', mouseOutOfRegion);
-
-            // google.maps.event.addDomListener(selectBox, 'change', function() {
-            //     clearCensusData();
-            //     loadCensusData(selectBox.value);
-            //   });
-
-            // state polygons only need to be loaded once, do them now
-
 
 
             script.src = 'https://storage.cloud.google.com/corona-marihacks2020/dataset.geojsonp';
@@ -341,13 +329,45 @@
                 listOfLongCoordinates.push(longCoordinates);
 
 
-
-
-                // document.getElementById('numberOfInfected').innerHTML = infected;
-
                 return {
                     icon: getCircle(infected)
                 };
+
+
+            });
+
+            map.data.addListener('mouseover', function(event) {
+                document.getElementById('numberOfInfected').textContent = event.feature.getProperty(currentTime);
+
+                var recommendations = [
+                "There are very few cases in your area. Please use caution and good sanitary practices, but please, do not panic! You can go about your daily business; don't worry, public transit is safe.",
+
+                "The number of cases in your area is growing. There is no need to panic, but please respect the sanitary guidelines provided by your local authorities. If you happen to have symptoms, please avoid contact with other people, and consult a doctor immediately.",
+
+                "The number of cases in your area is very high. In order to contain the spread of the virus and help local authorities, please stay calm and avoid irrational behaviour."
+            ]
+
+                var riskLevel = [
+                "Risk level is LOW",
+                "Risk level is MANAGEABLE",
+                "Risk level is HIGH"
+            ]
+
+                function updateTips(infected) {
+                if (infected <= 100) {
+                    document.getElementById('safety-tips').innerHTML = recommendations[0]
+                    document.getElementById('risk-level').innerHTML = riskLevel[0]
+                } else if (infected > 100 && infected <= 1000) {
+                    document.getElementById('safety-tips').innerHTML = recommendations[1]
+                    document.getElementById('risk-level').innerHTML = riskLevel[1]
+                } else {
+                    document.getElementById('safety-tips').innerHTML = recommendations[2]
+                    document.getElementById('risk-level').innerHTML = riskLevel[2]
+                }
+            }
+
+                updateTips(event.feature.getProperty(currentTime));
+
 
 
             });
@@ -394,13 +414,8 @@
 
             time = value.slice(5, 7) + '-' + parseInt(value.slice(8, 10), 10) + '-' + value.slice(0, 4);
             slashed_time = value.slice(6, 7) + '/' + parseInt(value.slice(8, 10), 10) + '/' + value.slice(0, 2);
+            currentTime = slashed_time
 
-            if (value.slice(6, 7) == 3) {
-                slashed_time = value.slice(6, 7) + '/' + value.slice(8,10) + '/' + value.slice(0, 2);
-                console.log(slashed_time);
-
-
-            }
 
 
             var script = document.createElement('script');

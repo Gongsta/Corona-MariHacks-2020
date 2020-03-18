@@ -4,7 +4,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 35.0,
+        "3/8/20": 50.0,
         "Lat": 15.0,
         "Long": 101.0
       },
@@ -19,7 +19,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 147.0,
+        "3/8/20": 502.0,
         "Lat": 36.0,
         "Long": 138.0
       },
@@ -34,7 +34,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 89.0,
+        "3/8/20": 150.0,
         "Lat": 1.2833,
         "Long": 103.8333
       },
@@ -49,7 +49,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 1.0,
         "Lat": 28.1667,
         "Long": 84.25
       },
@@ -64,7 +64,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 22.0,
+        "3/8/20": 99.0,
         "Lat": 2.5,
         "Long": 112.5
       },
@@ -79,7 +79,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 6.0,
+        "3/8/20": 27.0,
         "Lat": 49.2827,
         "Long": -123.1207
       },
@@ -94,7 +94,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 4.0,
+        "3/8/20": 38.0,
         "Lat": -33.8688,
         "Long": 151.2093
       },
@@ -109,7 +109,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 4.0,
+        "3/8/20": 11.0,
         "Lat": -37.8136,
         "Long": 144.9631
       },
@@ -124,7 +124,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 5.0,
+        "3/8/20": 15.0,
         "Lat": -28.0167,
         "Long": 153.4
       },
@@ -139,7 +139,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 2.0,
         "Lat": 11.55,
         "Long": 104.9167
       },
@@ -154,7 +154,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 1.0,
         "Lat": 7.0,
         "Long": 81.0
       },
@@ -169,7 +169,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 16.0,
+        "3/8/20": 1040.0,
         "Lat": 51.0,
         "Long": 9.0
       },
@@ -184,7 +184,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 23.0,
         "Lat": 64.0,
         "Long": 26.0
       },
@@ -199,7 +199,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 13.0,
+        "3/8/20": 45.0,
         "Lat": 24.0,
         "Long": 54.0
       },
@@ -214,7 +214,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 3.0,
+        "3/8/20": 10.0,
         "Lat": 13.0,
         "Long": 122.0
       },
@@ -229,7 +229,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 3.0,
+        "3/8/20": 39.0,
         "Lat": 21.0,
         "Long": 78.0
       },
@@ -244,7 +244,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 155.0,
+        "3/8/20": 7375.0,
         "Lat": 43.0,
         "Long": 12.0
       },
@@ -259,7 +259,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 203.0,
         "Lat": 63.0,
         "Long": 16.0
       },
@@ -274,7 +274,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 2.0,
+        "3/8/20": 673.0,
         "Lat": 40.0,
         "Long": -4.0
       },
@@ -289,7 +289,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 2.0,
+        "3/8/20": 7.0,
         "Lat": -34.9285,
         "Long": 138.6007
       },
@@ -304,7 +304,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 200.0,
         "Lat": 50.8333,
         "Long": 4.0
       },
@@ -319,7 +319,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 49.0,
         "Lat": 26.0,
         "Long": 30.0
       },
@@ -334,7 +334,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 7.0,
+        "3/8/20": 0.0,
         "Lat": 35.4437,
         "Long": 139.638
       },
@@ -349,7 +349,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 32.0,
         "Lat": 33.8547,
         "Long": 35.8623
       },
@@ -364,7 +364,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 60.0,
         "Lat": 33.0,
         "Long": 44.0
       },
@@ -379,7 +379,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 16.0,
         "Lat": 21.0,
         "Long": 57.0
       },
@@ -394,7 +394,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 4.0,
         "Lat": 33.0,
         "Long": 65.0
       },
@@ -409,7 +409,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 85.0,
         "Lat": 26.0275,
         "Long": 50.55
       },
@@ -424,7 +424,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 64.0,
         "Lat": 29.5,
         "Long": 47.75
       },
@@ -439,7 +439,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 19.0,
         "Lat": 28.0339,
         "Long": 1.6596
       },
@@ -454,7 +454,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 12.0,
         "Lat": 45.1,
         "Long": 15.2
       },
@@ -469,7 +469,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 337.0,
         "Lat": 46.8182,
         "Long": 8.2275
       },
@@ -484,7 +484,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 104.0,
         "Lat": 47.5162,
         "Long": 14.5501
       },
@@ -499,7 +499,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 61.0,
         "Lat": 31.0,
         "Long": 35.0
       },
@@ -514,7 +514,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 6.0,
         "Lat": 30.3753,
         "Long": 69.3451
       },
@@ -529,7 +529,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 20.0,
         "Lat": -14.235,
         "Long": -51.9253
       },
@@ -544,7 +544,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 13.0,
         "Lat": 42.3154,
         "Long": 43.3569
       },
@@ -559,7 +559,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 73.0,
         "Lat": 39.0742,
         "Long": 21.8243
       },
@@ -574,7 +574,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 3.0,
         "Lat": 41.6086,
         "Long": 21.7453
       },
@@ -589,7 +589,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 176.0,
         "Lat": 60.472,
         "Long": 8.4689
       },
@@ -604,7 +604,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 15.0,
         "Lat": 45.9432,
         "Long": 24.9668
       },
@@ -619,7 +619,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 10.0,
         "Lat": 58.5953,
         "Long": 25.0136
       },
@@ -634,7 +634,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 36.0,
         "Lat": 43.9424,
         "Long": 12.4578
       },
@@ -649,7 +649,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 6.0,
         "Lat": 53.7098,
         "Long": 27.9534
       },
@@ -664,7 +664,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 50.0,
         "Lat": 64.9631,
         "Long": -19.0208
       },
@@ -679,7 +679,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 55.1694,
         "Long": 23.8813
       },
@@ -694,7 +694,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 7.0,
         "Lat": 23.6345,
         "Long": -102.5528
       },
@@ -709,7 +709,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 5.0,
         "Lat": -40.9006,
         "Long": 174.886
       },
@@ -724,7 +724,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 9.082,
         "Long": 8.6753
       },
@@ -739,7 +739,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 3.0,
         "Lat": -31.9505,
         "Long": 115.8605
       },
@@ -754,7 +754,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 19.0,
         "Lat": 53.1424,
         "Long": -7.6921
       },
@@ -769,7 +769,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 3.0,
         "Lat": 49.8153,
         "Long": 6.1296
       },
@@ -784,7 +784,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 43.7333,
         "Long": 7.4167
       },
@@ -799,7 +799,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 15.0,
         "Lat": 25.3548,
         "Long": 51.1839
       },
@@ -814,7 +814,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 14.0,
         "Lat": -1.8312,
         "Long": -78.1834
       },
@@ -829,7 +829,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 9.0,
         "Lat": 40.1431,
         "Long": 47.5769
       },
@@ -844,7 +844,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 40.0691,
         "Long": 45.0382
       },
@@ -859,7 +859,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 5.0,
         "Lat": 18.7357,
         "Long": -70.1627
       },
@@ -874,7 +874,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 6.0,
         "Lat": -0.7893,
         "Long": 113.9213
       },
@@ -889,7 +889,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 30.0,
         "Lat": 39.3999,
         "Long": -8.2245
       },
@@ -904,7 +904,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 42.5063,
         "Long": 1.5218
       },
@@ -919,7 +919,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": -41.4545,
         "Long": 145.9707
       },
@@ -934,7 +934,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 56.8796,
         "Long": 24.6032
       },
@@ -949,7 +949,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 31.7917,
         "Long": -7.0926
       },
@@ -964,7 +964,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 11.0,
         "Lat": 24.0,
         "Long": 45.0
       },
@@ -979,7 +979,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 4.0,
         "Lat": 14.4974,
         "Long": -14.4524
       },
@@ -994,7 +994,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 12.0,
         "Lat": -38.4161,
         "Long": -63.6167
       },
@@ -1009,7 +1009,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 8.0,
         "Lat": -35.6751,
         "Long": -71.543
       },
@@ -1024,7 +1024,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 31.24,
         "Long": 36.51
       },
@@ -1039,7 +1039,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 48.3794,
         "Long": 31.1656
       },
@@ -1054,7 +1054,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 7.0,
         "Lat": 47.1625,
         "Long": 19.5033
       },
@@ -1069,7 +1069,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -12.4634,
         "Long": 130.8456
       },
@@ -1084,7 +1084,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 47.14,
         "Long": 9.55
       },
@@ -1099,7 +1099,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 11.0,
         "Lat": 51.9194,
         "Long": 19.1451
       },
@@ -1114,7 +1114,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 34.0,
         "Long": 9.0
       },
@@ -1129,7 +1129,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 3.0,
         "Lat": 43.9159,
         "Long": 17.6791
       },
@@ -1144,7 +1144,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 16.0,
         "Lat": 46.1512,
         "Long": 14.9955
       },
@@ -1159,7 +1159,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 3.0,
         "Lat": -30.5595,
         "Long": 22.9375
       },
@@ -1174,7 +1174,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 27.5142,
         "Long": 90.4336
       },
@@ -1189,7 +1189,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 3.8480000000000003,
         "Long": 11.5021
       },
@@ -1204,7 +1204,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 4.5709,
         "Long": -74.2973
       },
@@ -1219,7 +1219,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 5.0,
         "Lat": 9.7489,
         "Long": -83.7534
       },
@@ -1234,7 +1234,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 6.0,
         "Lat": -9.19,
         "Long": -75.0152
       },
@@ -1249,7 +1249,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 44.0165,
         "Long": 21.0059
       },
@@ -1264,7 +1264,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 3.0,
         "Lat": 48.669,
         "Long": 19.699
       },
@@ -1279,7 +1279,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 8.6195,
         "Long": 0.8248
       },
@@ -1294,7 +1294,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 3.0,
         "Lat": 35.9375,
         "Long": 14.3754
       },
@@ -1309,7 +1309,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 14.6415,
         "Long": -61.0242
       },
@@ -1324,7 +1324,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 4.0,
         "Lat": 42.7339,
         "Long": 25.4858
       },
@@ -1339,7 +1339,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 4.0,
         "Lat": 3.2028,
         "Long": 73.2207
       },
@@ -1354,7 +1354,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 3.0,
         "Lat": 23.685,
         "Long": 90.3563
       },
@@ -1369,7 +1369,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": -23.4425,
         "Long": -58.4438
       },
@@ -1384,7 +1384,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 3.0,
+        "3/8/20": 29.0,
         "Lat": 51.2538,
         "Long": -85.3232
       },
@@ -1399,7 +1399,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 4.0,
         "Lat": 53.9333,
         "Long": -116.5765
       },
@@ -1414,7 +1414,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 4.0,
         "Lat": 52.9399,
         "Long": -73.5491
       },
@@ -1429,7 +1429,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.1533,
         "Long": 20.1683
       },
@@ -1444,7 +1444,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 35.1264,
         "Long": 33.4299
       },
@@ -1459,7 +1459,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 4.5353,
         "Long": 114.7277
       },
@@ -1474,7 +1474,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 47.4009,
         "Long": -121.4905
       },
@@ -1489,7 +1489,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.1657,
         "Long": -74.9481
       },
@@ -1504,7 +1504,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 36.1162,
         "Long": -119.6816
       },
@@ -1519,7 +1519,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.2302,
         "Long": -71.5301
       },
@@ -1534,7 +1534,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 45.0,
         "Lat": 35.4437,
         "Long": 139.638
       },
@@ -1549,7 +1549,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 21.0,
         "Lat": 37.6489,
         "Long": -122.6655
       },
@@ -1564,7 +1564,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 33.0406,
         "Long": -83.6431
       },
@@ -1579,7 +1579,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 39.0598,
         "Long": -105.3111
       },
@@ -1594,7 +1594,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 27.7663,
         "Long": -81.6868
       },
@@ -1609,7 +1609,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.2989,
         "Long": -74.521
       },
@@ -1624,7 +1624,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 44.571999999999996,
         "Long": -122.0709
       },
@@ -1639,7 +1639,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 31.0545,
         "Long": -97.5635
       },
@@ -1654,7 +1654,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.3495,
         "Long": -88.9861
       },
@@ -1669,7 +1669,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.5908,
         "Long": -77.2098
       },
@@ -1684,7 +1684,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.0115,
         "Long": -93.2105
       },
@@ -1699,7 +1699,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 39.0639,
         "Long": -76.8021
       },
@@ -1714,7 +1714,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 35.6301,
         "Long": -79.8064
       },
@@ -1729,7 +1729,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 33.8569,
         "Long": -80.945
       },
@@ -1744,7 +1744,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 35.7478,
         "Long": -86.6923
       },
@@ -1759,7 +1759,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 37.7693,
         "Long": -78.17
       },
@@ -1774,7 +1774,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 33.7298,
         "Long": -111.4312
       },
@@ -1789,7 +1789,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 39.8494,
         "Long": -86.2583
       },
@@ -1804,7 +1804,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 37.6681,
         "Long": -84.6701
       },
@@ -1819,7 +1819,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.8974,
         "Long": -77.0268
       },
@@ -1834,7 +1834,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.3135,
         "Long": -117.0554
       },
@@ -1849,7 +1849,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 43.4525,
         "Long": -71.5639
       },
@@ -1864,7 +1864,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 45.6945,
         "Long": -93.9002
       },
@@ -1879,7 +1879,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.1254,
         "Long": -98.2681
       },
@@ -1894,7 +1894,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.3888,
         "Long": -82.7649
       },
@@ -1909,7 +1909,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.6809,
         "Long": -71.5118
       },
@@ -1924,7 +1924,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 44.2685,
         "Long": -89.6165
       },
@@ -1939,7 +1939,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.5978,
         "Long": -72.7554
       },
@@ -1954,7 +1954,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 21.0943,
         "Long": -157.4983
       },
@@ -1969,7 +1969,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 35.5653,
         "Long": -96.9289
       },
@@ -1984,7 +1984,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.15,
         "Long": -111.8624
       },
@@ -1999,7 +1999,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 12.2383,
         "Long": -1.5616
       },
@@ -2014,7 +2014,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 41.9029,
         "Long": 12.4534
       },
@@ -2029,7 +2029,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 46.8625,
         "Long": 103.8467
       },
@@ -2044,7 +2044,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 8.538,
         "Long": -80.7821
       },
@@ -2059,7 +2059,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.5266,
         "Long": -96.7265
       },
@@ -2074,7 +2074,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 31.1695,
         "Long": -91.8678
       },
@@ -2089,7 +2089,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.4561,
         "Long": -92.2884
       },
@@ -2104,7 +2104,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 44.0459,
         "Long": -72.7107
       },
@@ -2119,7 +2119,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 61.3707,
         "Long": -152.4044
       },
@@ -2134,7 +2134,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 34.9697,
         "Long": -92.3731
       },
@@ -2149,7 +2149,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 39.3185,
         "Long": -75.5071
       },
@@ -2164,7 +2164,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 44.2405,
         "Long": -114.4788
       },
@@ -2179,7 +2179,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 44.6939,
         "Long": -69.3819
       },
@@ -2194,7 +2194,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 43.3266,
         "Long": -84.5361
       },
@@ -2209,7 +2209,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 32.7416,
         "Long": -89.6787
       },
@@ -2224,7 +2224,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 46.9219,
         "Long": -110.4544
       },
@@ -2239,7 +2239,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 34.8405,
         "Long": -106.2485
       },
@@ -2254,7 +2254,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 47.5289,
         "Long": -99.78399999999999
       },
@@ -2269,7 +2269,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 44.2998,
         "Long": -99.4388
       },
@@ -2284,7 +2284,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.4912,
         "Long": -80.9545
       },
@@ -2299,7 +2299,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.756,
         "Long": -107.3025
       },
@@ -2314,7 +2314,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 64084.0,
+        "3/8/20": 67707.0,
         "Lat": 30.9756,
         "Long": 112.2707
       },
@@ -2329,7 +2329,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 43.0,
+        "3/8/20": 6566.0,
         "Lat": 32.0,
         "Long": 53.0
       },
@@ -2344,7 +2344,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 602.0,
+        "3/8/20": 7314.0,
         "Lat": 36.0,
         "Long": 128.0
       },
@@ -2359,7 +2359,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 12.0,
+        "3/8/20": 1126.0,
         "Lat": 46.2276,
         "Long": 2.2137
       },
@@ -2374,7 +2374,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1342.0,
+        "3/8/20": 1352.0,
         "Lat": 23.3417,
         "Long": 113.4244
       },
@@ -2389,7 +2389,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1271.0,
+        "3/8/20": 1272.0,
         "Lat": 33.882,
         "Long": 113.61399999999999
       },
@@ -2404,7 +2404,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1205.0,
+        "3/8/20": 1215.0,
         "Lat": 29.1832,
         "Long": 120.0934
       },
@@ -2419,7 +2419,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1016.0,
+        "3/8/20": 1018.0,
         "Lat": 27.6104,
         "Long": 111.7088
       },
@@ -2434,7 +2434,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 989.0,
+        "3/8/20": 990.0,
         "Lat": 31.8257,
         "Long": 117.2264
       },
@@ -2449,7 +2449,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 934.0,
+        "3/8/20": 935.0,
         "Lat": 27.614,
         "Long": 115.7221
       },
@@ -2464,7 +2464,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 754.0,
+        "3/8/20": 758.0,
         "Lat": 36.3427,
         "Long": 118.1498
       },
@@ -2479,7 +2479,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 691.0,
+        "3/8/20": 696.0,
         "Lat": 35.4437,
         "Long": 139.638
       },
@@ -2494,7 +2494,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 631.0,
+        "3/8/20": 631.0,
         "Lat": 32.9711,
         "Long": 119.455
       },
@@ -2509,7 +2509,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 575.0,
+        "3/8/20": 576.0,
         "Lat": 30.0572,
         "Long": 107.874
       },
@@ -2524,7 +2524,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 526.0,
+        "3/8/20": 539.0,
         "Lat": 30.6171,
         "Long": 102.7103
       },
@@ -2539,7 +2539,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 480.0,
+        "3/8/20": 481.0,
         "Lat": 47.861999999999995,
         "Long": 127.7615
       },
@@ -2554,7 +2554,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 35.0,
         "Lat": 56.2639,
         "Long": 9.5018
       },
@@ -2569,7 +2569,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 399.0,
+        "3/8/20": 428.0,
         "Lat": 40.1824,
         "Long": 116.4142
       },
@@ -2584,7 +2584,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 335.0,
+        "3/8/20": 342.0,
         "Lat": 31.201999999999998,
         "Long": 121.4491
       },
@@ -2599,7 +2599,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 311.0,
+        "3/8/20": 318.0,
         "Lat": 39.549,
         "Long": 116.1306
       },
@@ -2614,7 +2614,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 293.0,
+        "3/8/20": 296.0,
         "Lat": 26.0789,
         "Long": 117.9874
       },
@@ -2629,7 +2629,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 249.0,
+        "3/8/20": 252.0,
         "Lat": 23.8298,
         "Long": 108.7881
       },
@@ -2644,7 +2644,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 245.0,
+        "3/8/20": 245.0,
         "Lat": 35.1917,
         "Long": 108.8701
       },
@@ -2659,7 +2659,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 174.0,
+        "3/8/20": 174.0,
         "Lat": 24.974,
         "Long": 101.48700000000001
       },
@@ -2674,7 +2674,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 168.0,
+        "3/8/20": 168.0,
         "Lat": 19.1959,
         "Long": 109.7453
       },
@@ -2689,7 +2689,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 146.0,
+        "3/8/20": 146.0,
         "Lat": 26.8154,
         "Long": 106.8748
       },
@@ -2704,7 +2704,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 135.0,
+        "3/8/20": 136.0,
         "Lat": 39.3054,
         "Long": 117.323
       },
@@ -2719,7 +2719,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 132.0,
+        "3/8/20": 133.0,
         "Lat": 37.5777,
         "Long": 112.2922
       },
@@ -2734,7 +2734,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 91.0,
+        "3/8/20": 124.0,
         "Lat": 37.8099,
         "Long": 101.0583
       },
@@ -2749,7 +2749,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 74.0,
+        "3/8/20": 114.0,
         "Lat": 22.3,
         "Long": 114.2
       },
@@ -2764,7 +2764,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 121.0,
+        "3/8/20": 125.0,
         "Lat": 41.2956,
         "Long": 122.6085
       },
@@ -2779,7 +2779,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 91.0,
+        "3/8/20": 93.0,
         "Lat": 43.6661,
         "Long": 126.1923
       },
@@ -2794,7 +2794,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 31.0,
         "Lat": 49.8175,
         "Long": 15.472999999999999
       },
@@ -2809,7 +2809,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 76.0,
+        "3/8/20": 76.0,
         "Lat": 41.1129,
         "Long": 85.2401
       },
@@ -2824,7 +2824,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 75.0,
+        "3/8/20": 75.0,
         "Lat": 44.0935,
         "Long": 113.9448
       },
@@ -2839,7 +2839,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 71.0,
+        "3/8/20": 75.0,
         "Lat": 37.2692,
         "Long": 106.1655
       },
@@ -2854,7 +2854,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 28.0,
+        "3/8/20": 45.0,
         "Lat": 23.7,
         "Long": 121.0
       },
@@ -2869,7 +2869,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 16.0,
+        "3/8/20": 30.0,
         "Lat": 16.0,
         "Long": 108.0
       },
@@ -2884,7 +2884,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 2.0,
+        "3/8/20": 17.0,
         "Lat": 60.0,
         "Long": 90.0
       },
@@ -2899,7 +2899,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 18.0,
+        "3/8/20": 18.0,
         "Lat": 35.7452,
         "Long": 95.9956
       },
@@ -2914,7 +2914,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 10.0,
+        "3/8/20": 10.0,
         "Lat": 22.1667,
         "Long": 113.55
       },
@@ -2929,7 +2929,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 47.4116,
         "Long": 28.3699
       },
@@ -2944,7 +2944,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -16.2902,
         "Long": -63.5887
       },
@@ -2959,7 +2959,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 61.8926,
         "Long": -6.9118
       },
@@ -2974,7 +2974,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 18.0708,
         "Long": -63.0501
       },
@@ -2989,7 +2989,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 15.2,
         "Long": -86.2419
       },
@@ -3004,7 +3004,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 49.3723,
         "Long": -2.3644
       },
@@ -3019,7 +3019,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 46.5653,
         "Long": -66.4619
       },
@@ -3034,7 +3034,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 1.0,
         "Lat": 31.6927,
         "Long": 88.0924
       },
@@ -3049,7 +3049,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -4.0383,
         "Long": 21.7587
       },
@@ -3064,7 +3064,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 7.54,
         "Long": -5.5471
       },
@@ -3079,7 +3079,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 3.0,
         "Lat": 17.9,
         "Long": -62.8333
       },
@@ -3094,7 +3094,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 18.1096,
         "Long": -77.2975
       },
@@ -3109,7 +3109,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.9637,
         "Long": 35.2433
       },
@@ -3124,7 +3124,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 36.1408,
         "Long": -5.3536
       },
@@ -3139,7 +3139,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 47.6477,
         "Long": -122.6413
       },
@@ -3154,7 +3154,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.3105,
         "Long": -121.9018
       },
@@ -3169,7 +3169,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 37.0454,
         "Long": -121.958
       },
@@ -3184,7 +3184,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.5025,
         "Long": -122.2654
       },
@@ -3199,7 +3199,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 34.3705,
         "Long": -119.1391
       },
@@ -3214,7 +3214,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.4097,
         "Long": -71.8571
       },
@@ -3229,7 +3229,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 33.9191,
         "Long": -84.0167
       },
@@ -3244,7 +3244,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 33.7956,
         "Long": -84.2279
       },
@@ -3259,7 +3259,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 37.5455,
         "Long": -82.7779
       },
@@ -3274,7 +3274,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 33.4502,
         "Long": -84.4803
       },
@@ -3289,7 +3289,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 32.4893,
         "Long": -94.8521
       },
@@ -3304,7 +3304,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.2589,
         "Long": -74.124
       },
@@ -3319,7 +3319,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.0712,
         "Long": -74.8649
       },
@@ -3334,7 +3334,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 39.9259,
         "Long": -75.1196
       },
@@ -3349,7 +3349,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.8568,
         "Long": -74.1285
       },
@@ -3364,7 +3364,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.6976,
         "Long": -74.2632
       },
@@ -3379,7 +3379,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 39.6553,
         "Long": -106.8287
       },
@@ -3394,7 +3394,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.6956,
         "Long": -105.5943
       },
@@ -3409,7 +3409,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 39.6203,
         "Long": -104.3326
       },
@@ -3424,7 +3424,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.5458,
         "Long": -106.9253
       },
@@ -3439,7 +3439,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.9879,
         "Long": -88.4016
       },
@@ -3454,7 +3454,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.0458,
         "Long": -75.2479
       },
@@ -3469,7 +3469,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 39.9526,
         "Long": -75.1652
       },
@@ -3484,7 +3484,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 36.8508,
         "Long": -76.2859
       },
@@ -3499,7 +3499,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.8816,
         "Long": -77.09100000000001
       },
@@ -3514,7 +3514,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.2042,
         "Long": -77.6078
       },
@@ -3529,7 +3529,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 39.0768,
         "Long": -77.6536
       },
@@ -3544,7 +3544,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.7849,
         "Long": -76.8721
       },
@@ -3559,7 +3559,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.3912,
         "Long": -95.4778
       },
@@ -3574,7 +3574,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 34.2465,
         "Long": -80.607
       },
@@ -3589,7 +3589,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 32.0575,
         "Long": -111.6661
       },
@@ -3604,7 +3604,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.4277,
         "Long": -85.355
       },
@@ -3619,7 +3619,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 39.8522,
         "Long": -77.2865
       },
@@ -3634,7 +3634,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.0106,
         "Long": -86.4997
       },
@@ -3649,7 +3649,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 43.0186,
         "Long": -89.5498
       },
@@ -3664,7 +3664,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 44.7509,
         "Long": -92.3814
       },
@@ -3679,7 +3679,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.4339,
         "Long": -81.6758
       },
@@ -3694,7 +3694,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.2603,
         "Long": -111.9522
       },
@@ -3709,7 +3709,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 43.0279,
         "Long": -73.135
       },
@@ -3724,7 +3724,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 44.8254,
         "Long": -93.7842
       },
@@ -3739,7 +3739,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 26.8946,
         "Long": -81.9098
       },
@@ -3754,7 +3754,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 34.2515,
         "Long": -84.4803
       },
@@ -3769,7 +3769,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 33.1795,
         "Long": -96.493
       },
@@ -3784,7 +3784,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.1938,
         "Long": -85.6435
       },
@@ -3799,7 +3799,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 29.6499,
         "Long": -90.1121
       },
@@ -3814,7 +3814,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.7909,
         "Long": -121.8474
       },
@@ -3829,7 +3829,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 34.8606,
         "Long": -81.9535
       },
@@ -3844,7 +3844,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.4333,
         "Long": -84.3542
       },
@@ -3859,7 +3859,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.6699,
         "Long": -91.5984
       },
@@ -3874,7 +3874,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 42.3118,
         "Long": -73.1822
       },
@@ -3889,7 +3889,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 36.1343,
         "Long": -86.822
       },
@@ -3904,7 +3904,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 43.1261,
         "Long": -123.2492
       },
@@ -3919,7 +3919,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 36.9859,
         "Long": -119.2321
       },
@@ -3934,7 +3934,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 39.5839,
         "Long": -76.3637
       },
@@ -3949,7 +3949,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 39.8065,
         "Long": -86.5401
       },
@@ -3964,7 +3964,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 40.7453,
         "Long": -74.0535
       },
@@ -3979,7 +3979,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 38.8454,
         "Long": -94.8521
       },
@@ -3994,7 +3994,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 47.175,
         "Long": -120.9319
       },
@@ -4009,7 +4009,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 27.4799,
         "Long": -82.3452
       },
@@ -4024,7 +4024,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 44.8446,
         "Long": -122.5927
       },
@@ -4039,7 +4039,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 30.5773,
         "Long": -86.6611
       },
@@ -4054,7 +4054,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 34.0132,
         "Long": -85.1479
       },
@@ -4069,7 +4069,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 33.9533,
         "Long": -117.3961
       },
@@ -4084,7 +4084,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 35.1269,
         "Long": -89.9253
       },
@@ -4099,7 +4099,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 38.6103,
         "Long": -90.4125
       },
@@ -4114,7 +4114,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 40.9849,
         "Long": -72.6151
       },
@@ -4129,7 +4129,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 41.8586,
         "Long": -74.3118
       },
@@ -4144,7 +4144,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 29.028000000000002,
         "Long": -81.0755
       },
@@ -4159,7 +4159,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 38.9085,
         "Long": -77.2405
       },
@@ -4174,7 +4174,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 42.9931,
         "Long": -71.0498
       },
@@ -4189,7 +4189,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 38.9072,
         "Long": -77.0369
       },
@@ -4204,7 +4204,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 4.0,
         "Lat": 40.229,
         "Long": -75.3879
       },
@@ -4219,7 +4219,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 37.6017,
         "Long": -121.7195
       },
@@ -4234,7 +4234,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 26.1901,
         "Long": -80.3659
       },
@@ -4249,7 +4249,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 26.663,
         "Long": -81.9535
       },
@@ -4264,7 +4264,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 32.8162,
         "Long": -111.2845
       },
@@ -4279,7 +4279,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 41.1489,
         "Long": -73.983
       },
@@ -4294,7 +4294,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 43.0324,
         "Long": -73.936
       },
@@ -4309,7 +4309,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 32.7957,
         "Long": -79.7848
       },
@@ -4324,7 +4324,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 45.7466,
         "Long": -122.5194
       },
@@ -4339,7 +4339,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 33.8999,
         "Long": -84.5641
       },
@@ -4354,7 +4354,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 40.9629,
         "Long": -112.0953
       },
@@ -4369,7 +4369,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 38.9108,
         "Long": -104.4723
       },
@@ -4384,7 +4384,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 21.307,
         "Long": -157.8584
       },
@@ -4399,7 +4399,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 42.3345,
         "Long": -122.7647
       },
@@ -4414,7 +4414,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 47.7425,
         "Long": -123.304
       },
@@ -4429,7 +4429,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 34.3672,
         "Long": -80.5883
       },
@@ -4444,7 +4444,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 42.6953,
         "Long": -121.6142
       },
@@ -4459,7 +4459,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 37.2519,
         "Long": -119.6963
       },
@@ -4474,7 +4474,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 4.0,
         "Lat": 47.0676,
         "Long": -122.1295
       },
@@ -4489,7 +4489,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 36.1593,
         "Long": -95.941
       },
@@ -4504,7 +4504,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 3.0,
         "Lat": 39.2587,
         "Long": -104.9389
       },
@@ -4519,7 +4519,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 3.0,
         "Lat": 41.8882,
         "Long": -71.4774
       },
@@ -4534,7 +4534,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 35.7211,
         "Long": -79.1781
       },
@@ -4549,7 +4549,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 39.9078,
         "Long": -75.3879
       },
@@ -4564,7 +4564,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 41.3148,
         "Long": -96.1951
       },
@@ -4579,7 +4579,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 38.0606,
         "Long": -84.4803
       },
@@ -4594,7 +4594,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 39.8362,
         "Long": -86.1752
       },
@@ -4609,7 +4609,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 7.0,
         "Lat": 42.4672,
         "Long": -71.2874
       },
@@ -4624,7 +4624,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 5.0,
         "Lat": 40.6546,
         "Long": -73.5594
       },
@@ -4639,7 +4639,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 44.9964,
         "Long": -93.0616
       },
@@ -4654,7 +4654,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 40.5608,
         "Long": -119.6035
       },
@@ -4669,7 +4669,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 41.6739,
         "Long": -75.2479
       },
@@ -4684,7 +4684,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 38.7646,
         "Long": -121.9018
       },
@@ -4699,7 +4699,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 2.0,
+        "3/8/20": 38.0,
         "Lat": 37.3541,
         "Long": -121.9552
       },
@@ -4714,7 +4714,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 36.0796,
         "Long": -115.094
       },
@@ -4729,7 +4729,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 6.0,
         "Lat": 29.5693,
         "Long": -95.8143
       },
@@ -4744,7 +4744,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 47.1981,
         "Long": -119.3732
       },
@@ -4759,7 +4759,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 30.769000000000002,
         "Long": -86.9824
       },
@@ -4774,7 +4774,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 35.9179,
         "Long": -86.8622
       },
@@ -4789,7 +4789,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 12.0,
         "Lat": 40.7128,
         "Long": -74.006
       },
@@ -4804,7 +4804,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 4.0,
         "Lat": 39.1547,
         "Long": -77.2405
       },
@@ -4819,7 +4819,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 8.0,
         "Lat": 42.3601,
         "Long": -71.0589
       },
@@ -4834,7 +4834,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 39.7392,
         "Long": -104.9903
       },
@@ -4849,7 +4849,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 39.5912,
         "Long": -106.064
       },
@@ -4864,7 +4864,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 4.0,
         "Lat": 40.9263,
         "Long": -74.077
       },
@@ -4879,7 +4879,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 5.0,
         "Lat": 29.7752,
         "Long": -95.3103
       },
@@ -4894,7 +4894,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 9.0,
         "Lat": 37.7749,
         "Long": -122.4194
       },
@@ -4909,7 +4909,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 9.0,
         "Lat": 37.8534,
         "Long": -121.9018
       },
@@ -4924,7 +4924,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 3.0,
         "Lat": 33.7879,
         "Long": -117.8531
       },
@@ -4939,7 +4939,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 6.0,
         "Lat": 42.1767,
         "Long": -71.1449
       },
@@ -4954,7 +4954,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 2.0,
         "Lat": 33.2918,
         "Long": -112.4291
       },
@@ -4969,7 +4969,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 35.8032,
         "Long": -78.5661
       },
@@ -4984,7 +4984,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 83.0,
         "Lat": 41.122,
         "Long": -73.7949
       },
@@ -4999,7 +4999,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 3.0,
         "Lat": 43.9088,
         "Long": -71.82600000000001
       },
@@ -5014,7 +5014,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 27.9904,
         "Long": -82.3018
       },
@@ -5029,7 +5029,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 5.0,
         "Lat": 39.0916,
         "Long": -120.8039
       },
@@ -5044,7 +5044,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 2.0,
         "Lat": 37.563,
         "Long": -122.3255
       },
@@ -5059,7 +5059,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 38.578,
         "Long": -122.9888
       },
@@ -5074,7 +5074,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 1.0,
         "Lat": 45.775,
         "Long": -118.7606
       },
@@ -5089,7 +5089,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 3.0,
         "Lat": 33.8034,
         "Long": -84.3963
       },
@@ -5104,7 +5104,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 8.0,
         "Lat": 45.547,
         "Long": -123.1386
       },
@@ -5119,7 +5119,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 31.0,
         "Lat": 48.033,
         "Long": -121.8339
       },
@@ -5134,7 +5134,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 1.0,
         "Lat": 40.745,
         "Long": -123.8695
       },
@@ -5149,7 +5149,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 2.0,
         "Lat": 38.4747,
         "Long": -121.3542
       },
@@ -5164,7 +5164,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 2.0,
+        "3/8/20": 3.0,
         "Lat": 32.7157,
         "Long": -117.1611
       },
@@ -5179,7 +5179,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 2.0,
+        "3/8/20": 2.0,
         "Lat": 36.5761,
         "Long": -120.9876
       },
@@ -5194,7 +5194,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 14.0,
         "Lat": 34.0522,
         "Long": -118.2437
       },
@@ -5209,7 +5209,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 1.0,
+        "3/8/20": 83.0,
         "Lat": 47.6062,
         "Long": -122.3321
       },
@@ -5224,7 +5224,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 2.0,
+        "3/8/20": 7.0,
         "Lat": 41.7377,
         "Long": -87.6976
       },
@@ -5239,7 +5239,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 48.4242,
         "Long": -121.7114
       },
@@ -5254,7 +5254,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 46.8646,
         "Long": -122.7696
       },
@@ -5269,7 +5269,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 48.1976,
         "Long": -122.5795
       },
@@ -5284,7 +5284,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 48.8787,
         "Long": -121.9719
       },
@@ -5299,7 +5299,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.0834,
         "Long": -122.7633
       },
@@ -5314,7 +5314,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 38.196,
         "Long": -120.6805
       },
@@ -5329,7 +5329,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 37.5091,
         "Long": -120.9876
       },
@@ -5344,7 +5344,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 36.6066,
         "Long": -120.189
       },
@@ -5359,7 +5359,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.632,
         "Long": -70.7829
       },
@@ -5374,7 +5374,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 30.7917,
         "Long": -82.0843
       },
@@ -5389,7 +5389,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 26.07,
         "Long": -81.4279
       },
@@ -5404,7 +5404,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 27.8764,
         "Long": -82.7779
       },
@@ -5419,7 +5419,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 29.7938,
         "Long": -82.4944
       },
@@ -5434,7 +5434,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 30.5927,
         "Long": -81.8224
       },
@@ -5449,7 +5449,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 28.3232,
         "Long": -82.4319
       },
@@ -5464,7 +5464,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 32.7767,
         "Long": -96.79700000000001
       },
@@ -5479,7 +5479,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 32.7732,
         "Long": -97.3517
       },
@@ -5494,7 +5494,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 30.3883,
         "Long": -95.6963
       },
@@ -5509,7 +5509,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.5726,
         "Long": -74.4927
       },
@@ -5524,7 +5524,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 39.58,
         "Long": -105.2663
       },
@@ -5539,7 +5539,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 45.5146,
         "Long": -122.5863
       },
@@ -5554,7 +5554,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 44.9267,
         "Long": -123.4919
       },
@@ -5569,7 +5569,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 43.8325,
         "Long": -121.2617
       },
@@ -5584,7 +5584,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.3334,
         "Long": -88.2668
       },
@@ -5599,7 +5599,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.3689,
         "Long": -87.8272
       },
@@ -5614,7 +5614,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.4108,
         "Long": -75.2479
       },
@@ -5629,7 +5629,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 37.7772,
         "Long": -77.5161
       },
@@ -5644,7 +5644,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 34.7253,
         "Long": -80.6771
       },
@@ -5659,7 +5659,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 36.4933,
         "Long": -82.3452
       },
@@ -5674,7 +5674,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 39.4638,
         "Long": -86.1345
       },
@@ -5689,7 +5689,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.4483,
         "Long": -86.1345
       },
@@ -5704,7 +5704,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.6228,
         "Long": -86.3377
       },
@@ -5719,7 +5719,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.6712,
         "Long": -97.8722
       },
@@ -5734,7 +5734,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.8685,
         "Long": -81.2519
       },
@@ -5749,7 +5749,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 45.3293,
         "Long": -93.2197
       },
@@ -5764,7 +5764,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 43.9952,
         "Long": -92.3814
       },
@@ -5779,7 +5779,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 40.8298,
         "Long": -110.9984
       },
@@ -5794,7 +5794,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.256,
         "Long": -73.3709
       },
@@ -5809,7 +5809,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.7866,
         "Long": -73.2765
       },
@@ -5824,7 +5824,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 29.9511,
         "Long": -90.0715
       },
@@ -5839,7 +5839,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 43.8901,
         "Long": -102.2548
       },
@@ -5854,7 +5854,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 44.4797,
         "Long": -98.2213
       },
@@ -5869,7 +5869,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 43.0985,
         "Long": -98.3965
       },
@@ -5884,7 +5884,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 43.7242,
         "Long": -98.2213
       },
@@ -5899,7 +5899,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 43.6632,
         "Long": -96.8351
       },
@@ -5914,7 +5914,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.9815,
         "Long": -97.8722
       },
@@ -5929,7 +5929,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 33.8837,
         "Long": -106.7235
       },
@@ -5944,7 +5944,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 35.0178,
         "Long": -106.6291
       },
@@ -5959,7 +5959,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.5922,
         "Long": -83.3362
       },
@@ -5974,7 +5974,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.2791,
         "Long": -83.3362
       },
@@ -5989,7 +5989,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 39.5393,
         "Long": -75.6674
       },
@@ -6004,7 +6004,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 22.0,
         "Long": -80.0
       },
@@ -6019,7 +6019,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 5.0,
         "Long": -58.75
       },
@@ -6034,7 +6034,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -35.4735,
         "Long": 149.0124
       },
@@ -6049,7 +6049,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 9.0,
+        "3/8/20": 273.0,
         "Lat": 55.3781,
         "Long": -3.4360000000000004
       },
@@ -6064,7 +6064,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 48.0196,
         "Long": 66.9237
       },
@@ -6079,7 +6079,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -17.6797,
         "Long": 149.4068
       },
@@ -6094,7 +6094,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 53.7609,
         "Long": -98.8139
       },
@@ -6109,7 +6109,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 52.9399,
         "Long": -106.4509
       },
@@ -6124,7 +6124,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 9.145,
         "Long": 40.4897
       },
@@ -6139,7 +6139,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 12.8628,
         "Long": 30.2176
       },
@@ -6154,7 +6154,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 9.9456,
         "Long": -9.6966
       },
@@ -6169,7 +6169,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 12.5211,
         "Long": -69.9683
       },
@@ -6184,7 +6184,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 37.6489,
         "Long": -122.6655
       },
@@ -6199,7 +6199,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -0.0236,
         "Long": 37.9062
       },
@@ -6214,7 +6214,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 17.0608,
         "Long": -61.7964
       },
@@ -6229,7 +6229,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 32.3182,
         "Long": -86.9023
       },
@@ -6244,7 +6244,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -32.5228,
         "Long": -55.7658
       },
@@ -6259,7 +6259,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 7.9465,
         "Long": -1.0232
       },
@@ -6274,7 +6274,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 18.2208,
         "Long": -66.5901
       },
@@ -6289,7 +6289,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 49.19,
         "Long": -2.11
       },
@@ -6304,7 +6304,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -22.9576,
         "Long": 18.4904
       },
@@ -6319,7 +6319,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -4.6796,
         "Long": 55.492
       },
@@ -6334,7 +6334,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 10.6918,
         "Long": -61.2225
       },
@@ -6349,7 +6349,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 6.4238,
         "Long": -66.5897
       },
@@ -6364,7 +6364,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -26.5225,
         "Long": 31.4659
       },
@@ -6379,7 +6379,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -0.8037,
         "Long": 11.6094
       },
@@ -6394,7 +6394,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 15.7835,
         "Long": -90.2308
       },
@@ -6409,7 +6409,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 49.45,
         "Long": -2.58
       },
@@ -6424,7 +6424,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 21.0079,
         "Long": 10.9408
       },
@@ -6439,7 +6439,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -1.9403,
         "Long": 29.8739
       },
@@ -6454,7 +6454,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 13.9094,
         "Long": -60.9789
       },
@@ -6469,7 +6469,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 12.9843,
         "Long": -61.2872
       },
@@ -6484,7 +6484,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 3.9193,
         "Long": -56.0278
       },
@@ -6499,7 +6499,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 5.0,
         "Lat": 3.9339,
         "Long": -53.1258
       },
@@ -6514,7 +6514,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 13.4443,
         "Long": 144.7937
       },
@@ -6529,7 +6529,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.6026,
         "Long": 20.903000000000002
       },
@@ -6544,7 +6544,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 53.1355,
         "Long": -57.6604
       },
@@ -6559,7 +6559,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 46.5107,
         "Long": -63.4168
       },
@@ -6574,7 +6574,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 6.6111,
         "Long": 20.9394
       },
@@ -6589,7 +6589,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -4.0383,
         "Long": 21.7587
       },
@@ -6604,7 +6604,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 1.5,
         "Long": 10.0
       },
@@ -6619,7 +6619,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -12.8275,
         "Long": 45.1662
       },
@@ -6634,7 +6634,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 41.3775,
         "Long": 64.5853
       },
@@ -6649,7 +6649,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 265.0,
         "Lat": 52.1326,
         "Long": 5.2913
       },
@@ -6664,7 +6664,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 44.681999999999995,
         "Long": -63.7443
       },
@@ -6679,7 +6679,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 16.25,
         "Long": -61.5833
       },
@@ -6694,7 +6694,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 9.3077,
         "Long": 2.3158
       },
@@ -6709,7 +6709,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 71.7069,
         "Long": -42.6043
       },
@@ -6724,7 +6724,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 6.4281,
         "Long": -9.4295
       },
@@ -6739,7 +6739,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 12.1696,
         "Long": -68.99
       },
@@ -6754,7 +6754,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -1.44,
         "Long": 15.556
       },
@@ -6769,7 +6769,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 5.1521,
         "Long": 46.1996
       },
@@ -6784,7 +6784,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -6.369,
         "Long": 34.8888
       },
@@ -6799,7 +6799,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 24.25,
         "Long": -76.0
       },
@@ -6814,7 +6814,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 18.3358,
         "Long": -64.8963
       },
@@ -6829,7 +6829,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 19.3133,
         "Long": -81.2546
       },
@@ -6844,7 +6844,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": -21.1351,
         "Long": 55.2471
       },
@@ -6859,7 +6859,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 13.1939,
         "Long": -59.5432
       },
@@ -6874,7 +6874,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 42.5,
         "Long": 19.3
       },
@@ -6889,7 +6889,7 @@ eqfeed_callback({
     {
       "type": "Feature",
       "properties": {
-        "2/23/20": 0.0,
+        "3/8/20": 0.0,
         "Lat": 13.4667,
         "Long": -16.6
       },

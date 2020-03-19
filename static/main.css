@@ -207,3 +207,10 @@ h2 {
 .open-nb-cases h1 {
     margin: 0;
 }
+
+.sidebar-info-grid {
+    display: grid;
+    grid-gap: 20px;
+    grid-column: 2;
+}
+

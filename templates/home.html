@@ -555,7 +555,7 @@
             recentLocation = String(val);
             var xmlHttp = new XMLHttpRequest();
             xmlHttp.open("GET", ("https://maps.googleapis.com/maps/api/geocode/json?address=" + val +
-                "&key=AIzaSyAzkhf-ORo89KJxvc_A6rscoEbO3d-ByQM"), false); // false for synchronous request
+                "&key=AIzaSyAl1Uk1GOMOo1FY4c5kKRD5hWU317td2Q8"), false); // false for synchronous request
             xmlHttp.send(null);
             response = JSON.parse(xmlHttp.responseText);
             var longitude = response["results"][0]['geometry']['location']['lng'];
@@ -563,7 +563,7 @@
 
             var xmlHttp1 = new XMLHttpRequest();
             xmlHttp1.open("GET", ("https://maps.googleapis.com/maps/api/geocode/json?latlng=" + String(latitude) + "," +
-                String(longitude) + "&key=AIzaSyAzkhf-ORo89KJxvc_A6rscoEbO3d-ByQM"), false);
+                String(longitude) + "&key=AIzaSyAl1Uk1GOMOo1FY4c5kKRD5hWU317td2Q8"), false);
             xmlHttp1.send(null);
             response1 = JSON.parse(xmlHttp1.responseText);
             // var longitude = response["results"][0]['geometry']['location']['lng'];
@@ -674,7 +674,7 @@
     </script>
     <script src="http://maps.google.com/maps/api/js?libraries=places"></script>
     <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB_kX9Yu5AtlAxjsdTQ6feIoMZe4ihoKn8&callback=initMap&libraries=places">
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAl1Uk1GOMOo1FY4c5kKRD5hWU317td2Q8&callback=initMap&libraries=places">
     </script>
 
 </body>
